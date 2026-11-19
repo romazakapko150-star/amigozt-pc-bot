@@ -1,0 +1,1169 @@
+[
+  {
+    "id": "aoc-24g2spu",
+    "category": "monitor",
+    "brand": "AOC",
+    "model": "24G2SPU 24\" 1080p 165Hz",
+    "spec": {
+      "size_inch": 23.8,
+      "resolution": "1920x1080",
+      "refresh_hz": 165,
+      "panel": "IPS",
+      "response_ms": 1.0,
+      "adaptive_sync": true,
+      "colour": "black"
+    }
+  },
+  {
+    "id": "aoc-27g2spu",
+    "category": "monitor",
+    "brand": "AOC",
+    "model": "27G2SPU 27\" 1080p 165Hz",
+    "spec": {
+      "size_inch": 27,
+      "resolution": "1920x1080",
+      "refresh_hz": 165,
+      "panel": "IPS",
+      "response_ms": 1.0,
+      "adaptive_sync": true,
+      "colour": "black"
+    }
+  },
+  {
+    "id": "gigabyte-m27q",
+    "category": "monitor",
+    "brand": "Gigabyte",
+    "model": "M27Q 27\" 1440p 170Hz",
+    "spec": {
+      "size_inch": 27,
+      "resolution": "2560x1440",
+      "refresh_hz": 170,
+      "panel": "IPS",
+      "response_ms": 1.0,
+      "adaptive_sync": true,
+      "colour": "black"
+    }
+  },
+  {
+    "id": "lg-27gp850",
+    "category": "monitor",
+    "brand": "LG",
+    "model": "UltraGear 27GP850 27\" 1440p 165Hz",
+    "spec": {
+      "size_inch": 27,
+      "resolution": "2560x1440",
+      "refresh_hz": 165,
+      "panel": "Nano IPS",
+      "response_ms": 1.0,
+      "adaptive_sync": true,
+      "colour": "black"
+    }
+  },
+  {
+    "id": "samsung-odyssey-g5-27",
+    "category": "monitor",
+    "brand": "Samsung",
+    "model": "Odyssey G5 27\" 1440p 165Hz",
+    "spec": {
+      "size_inch": 27,
+      "resolution": "2560x1440",
+      "refresh_hz": 165,
+      "panel": "VA",
+      "response_ms": 1.0,
+      "adaptive_sync": true,
+      "curved": true,
+      "colour": "black"
+    }
+  },
+  {
+    "id": "samsung-odyssey-g7-32",
+    "category": "monitor",
+    "brand": "Samsung",
+    "model": "Odyssey G7 32\" 1440p 240Hz",
+    "spec": {
+      "size_inch": 32,
+      "resolution": "2560x1440",
+      "refresh_hz": 240,
+      "panel": "VA",
+      "response_ms": 1.0,
+      "adaptive_sync": true,
+      "curved": true,
+      "colour": "black"
+    }
+  },
+  {
+    "id": "lg-27gr93u",
+    "category": "monitor",
+    "brand": "LG",
+    "model": "UltraGear 27GR93U 27\" 4K 144Hz",
+    "spec": {
+      "size_inch": 27,
+      "resolution": "3840x2160",
+      "refresh_hz": 144,
+      "panel": "IPS",
+      "response_ms": 1.0,
+      "adaptive_sync": true,
+      "colour": "black"
+    }
+  },
+  {
+    "id": "zowie-xl2566k",
+    "category": "monitor",
+    "brand": "BenQ ZOWIE",
+    "model": "XL2566K 24.5\" 1080p 360Hz",
+    "spec": {
+      "size_inch": 24.5,
+      "resolution": "1920x1080",
+      "refresh_hz": 360,
+      "panel": "TN",
+      "response_ms": 0.5,
+      "adaptive_sync": false,
+      "colour": "black"
+    }
+  },
+  {
+    "id": "logitech-g502-hero",
+    "category": "mouse",
+    "brand": "Logitech",
+    "model": "G502 HERO",
+    "spec": {
+      "summary": "Проводная игровая мышь с 11 кнопками",
+      "wireless": false,
+      "rgb": true,
+      "colour": "black",
+      "highlights": [
+        "25 600 DPI",
+        "121 g",
+        "Adjustable weights"
+      ]
+    }
+  },
+  {
+    "id": "logitech-g305",
+    "category": "mouse",
+    "brand": "Logitech",
+    "model": "G305 LIGHTSPEED",
+    "spec": {
+      "summary": "Беспроводная мышь на батарейке AA",
+      "wireless": true,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "12 000 DPI",
+        "99 g",
+        "Up to 250 h"
+      ]
+    }
+  },
+  {
+    "id": "logitech-g-pro-x-superlight-2",
+    "category": "mouse",
+    "brand": "Logitech",
+    "model": "G PRO X SUPERLIGHT 2",
+    "spec": {
+      "summary": "Сверхлёгкая беспроводная мышь для киберспорта",
+      "wireless": true,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "60 g",
+        "32 000 DPI",
+        "8000 Hz polling"
+      ]
+    }
+  },
+  {
+    "id": "logitech-g-pro-x-superlight-2-white",
+    "category": "mouse",
+    "brand": "Logitech",
+    "model": "G PRO X SUPERLIGHT 2 White",
+    "spec": {
+      "summary": "Сверхлёгкая беспроводная мышь, белая",
+      "wireless": true,
+      "rgb": false,
+      "colour": "white",
+      "highlights": [
+        "60 g",
+        "32 000 DPI",
+        "8000 Hz polling"
+      ]
+    }
+  },
+  {
+    "id": "razer-deathadder-v3",
+    "category": "mouse",
+    "brand": "Razer",
+    "model": "DeathAdder V3",
+    "spec": {
+      "summary": "Проводная эргономичная мышь",
+      "wireless": false,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "59 g",
+        "30 000 DPI"
+      ]
+    }
+  },
+  {
+    "id": "steelseries-rival-3",
+    "category": "mouse",
+    "brand": "SteelSeries",
+    "model": "Rival 3",
+    "spec": {
+      "summary": "Бюджетная проводная игровая мышь",
+      "wireless": false,
+      "rgb": true,
+      "colour": "black",
+      "highlights": [
+        "77 g",
+        "8 500 DPI"
+      ]
+    }
+  },
+  {
+    "id": "logitech-g413-se",
+    "category": "keyboard",
+    "brand": "Logitech",
+    "model": "G413 SE",
+    "spec": {
+      "summary": "Механическая клавиатура полного размера",
+      "wireless": false,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "Tactile switch",
+        "White lighting"
+      ]
+    }
+  },
+  {
+    "id": "keychron-k8",
+    "category": "keyboard",
+    "brand": "Keychron",
+    "model": "K8 TKL",
+    "spec": {
+      "summary": "Беспроводная механическая TKL-клавиатура",
+      "wireless": true,
+      "rgb": true,
+      "colour": "black",
+      "highlights": [
+        "TKL",
+        "Bluetooth + USB-C",
+        "Hot-swap"
+      ]
+    }
+  },
+  {
+    "id": "razer-huntsman-mini",
+    "category": "keyboard",
+    "brand": "Razer",
+    "model": "Huntsman Mini",
+    "spec": {
+      "summary": "Компактная 60% клавиатура с оптическими переключателями",
+      "wireless": false,
+      "rgb": true,
+      "colour": "black",
+      "highlights": [
+        "60%",
+        "Optical switches"
+      ]
+    }
+  },
+  {
+    "id": "steelseries-apex-pro-tkl",
+    "category": "keyboard",
+    "brand": "SteelSeries",
+    "model": "Apex Pro TKL",
+    "spec": {
+      "summary": "TKL с регулируемой точкой срабатывания",
+      "wireless": false,
+      "rgb": true,
+      "colour": "black",
+      "highlights": [
+        "TKL",
+        "Adjustable actuation",
+        "OLED display"
+      ]
+    }
+  },
+  {
+    "id": "logitech-g-pro-x-tkl-white",
+    "category": "keyboard",
+    "brand": "Logitech",
+    "model": "G PRO X TKL White",
+    "spec": {
+      "summary": "Беспроводная TKL-клавиатура, белая",
+      "wireless": true,
+      "rgb": true,
+      "colour": "white",
+      "highlights": [
+        "TKL",
+        "LIGHTSPEED",
+        "Hot-swap"
+      ]
+    }
+  },
+  {
+    "id": "hyperx-cloud-ii",
+    "category": "headset",
+    "brand": "HyperX",
+    "model": "Cloud II",
+    "spec": {
+      "summary": "Проводная игровая гарнитура с USB-звуком",
+      "wireless": false,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "7.1 virtual surround",
+        "Detachable mic"
+      ]
+    }
+  },
+  {
+    "id": "steelseries-arctis-nova-7",
+    "category": "headset",
+    "brand": "SteelSeries",
+    "model": "Arctis Nova 7",
+    "spec": {
+      "summary": "Беспроводная гарнитура с двойным подключением",
+      "wireless": true,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "2.4 GHz + Bluetooth",
+        "Up to 38 h"
+      ]
+    }
+  },
+  {
+    "id": "steelseries-arctis-nova-7-white",
+    "category": "headset",
+    "brand": "SteelSeries",
+    "model": "Arctis Nova 7 White",
+    "spec": {
+      "summary": "Беспроводная гарнитура, белая",
+      "wireless": true,
+      "rgb": false,
+      "colour": "white",
+      "highlights": [
+        "2.4 GHz + Bluetooth",
+        "Up to 38 h"
+      ]
+    }
+  },
+  {
+    "id": "razer-blackshark-v2",
+    "category": "headset",
+    "brand": "Razer",
+    "model": "BlackShark V2",
+    "spec": {
+      "summary": "Проводная гарнитура для соревновательных игр",
+      "wireless": false,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "THX Spatial Audio",
+        "Lightweight"
+      ]
+    }
+  },
+  {
+    "id": "logitech-g-pro-x-2",
+    "category": "headset",
+    "brand": "Logitech",
+    "model": "G PRO X 2 LIGHTSPEED",
+    "spec": {
+      "summary": "Беспроводная гарнитура с графеновыми драйверами",
+      "wireless": true,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "LIGHTSPEED",
+        "Bluetooth",
+        "Up to 50 h"
+      ]
+    }
+  },
+  {
+    "id": "fifine-a6v",
+    "category": "microphone",
+    "brand": "FIFINE",
+    "model": "AmpliGame A6V",
+    "spec": {
+      "summary": "USB-микрофон для стрима с подсветкой",
+      "wireless": false,
+      "rgb": true,
+      "colour": "black",
+      "highlights": [
+        "USB",
+        "Cardioid"
+      ]
+    }
+  },
+  {
+    "id": "hyperx-quadcast-s",
+    "category": "microphone",
+    "brand": "HyperX",
+    "model": "QuadCast S",
+    "spec": {
+      "summary": "USB-микрофон с RGB и антивибрационной подвеской",
+      "wireless": false,
+      "rgb": true,
+      "colour": "black",
+      "highlights": [
+        "4 pickup patterns",
+        "Tap to mute"
+      ]
+    }
+  },
+  {
+    "id": "elgato-wave-3",
+    "category": "microphone",
+    "brand": "Elgato",
+    "model": "Wave:3",
+    "spec": {
+      "summary": "USB-микрофон для стрима с защитой от клиппинга",
+      "wireless": false,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "24-bit/96 kHz",
+        "Clipguard"
+      ]
+    }
+  },
+  {
+    "id": "logitech-c920",
+    "category": "webcam",
+    "brand": "Logitech",
+    "model": "C920 HD Pro",
+    "spec": {
+      "summary": "Веб-камера 1080p 30 fps",
+      "wireless": false,
+      "colour": "black",
+      "highlights": [
+        "1080p",
+        "Stereo microphone"
+      ]
+    }
+  },
+  {
+    "id": "logitech-brio-100",
+    "category": "webcam",
+    "brand": "Logitech",
+    "model": "Brio 100",
+    "spec": {
+      "summary": "Компактная веб-камера 1080p со шторкой",
+      "wireless": false,
+      "colour": "black",
+      "highlights": [
+        "1080p",
+        "Privacy shutter"
+      ]
+    }
+  },
+  {
+    "id": "creative-pebble-v3",
+    "category": "speakers",
+    "brand": "Creative",
+    "model": "Pebble V3",
+    "spec": {
+      "summary": "Компактная стереопара 2.0 с USB-C",
+      "wireless": true,
+      "colour": "black",
+      "highlights": [
+        "Bluetooth 5.0",
+        "USB-C"
+      ]
+    }
+  },
+  {
+    "id": "logitech-z333",
+    "category": "speakers",
+    "brand": "Logitech",
+    "model": "Z333 2.1",
+    "spec": {
+      "summary": "Система 2.1 с сабвуфером",
+      "wireless": false,
+      "colour": "black",
+      "highlights": [
+        "40 W",
+        "Subwoofer"
+      ]
+    }
+  },
+  {
+    "id": "steelseries-qck-heavy-l",
+    "category": "mousepad",
+    "brand": "SteelSeries",
+    "model": "QcK Heavy L",
+    "spec": {
+      "summary": "Толстый тканевый коврик 450x400 мм",
+      "colour": "black",
+      "highlights": [
+        "450x400 mm",
+        "6 mm"
+      ]
+    }
+  },
+  {
+    "id": "razer-gigantus-v2-xxl",
+    "category": "mousepad",
+    "brand": "Razer",
+    "model": "Gigantus V2 XXL",
+    "spec": {
+      "summary": "Коврик на весь стол 940x410 мм",
+      "colour": "black",
+      "highlights": [
+        "940x410 mm",
+        "Rubber base"
+      ]
+    }
+  },
+  {
+    "id": "huzaro-force-4-4",
+    "category": "chair",
+    "brand": "Huzaro",
+    "model": "Force 4.4",
+    "spec": {
+      "summary": "Игровое кресло с тканевой обивкой",
+      "colour": "black",
+      "highlights": [
+        "Up to 140 kg",
+        "Reclines to 165°"
+      ]
+    }
+  },
+  {
+    "id": "diablo-x-horn-2-0",
+    "category": "chair",
+    "brand": "Diablo Chairs",
+    "model": "X-Horn 2.0",
+    "spec": {
+      "summary": "Игровое кресло с подушками под шею и поясницу",
+      "colour": "black",
+      "highlights": [
+        "Up to 150 kg",
+        "Adjustable armrests"
+      ]
+    }
+  },
+  {
+    "id": "ikea-bekant-160",
+    "category": "desk",
+    "brand": "IKEA",
+    "model": "BEKANT 160x80",
+    "spec": {
+      "summary": "Письменный стол 160x80 см",
+      "colour": "black",
+      "highlights": [
+        "160x80 cm",
+        "Adjustable feet"
+      ]
+    }
+  },
+  {
+    "id": "huzaro-hero-desk",
+    "category": "desk",
+    "brand": "Huzaro",
+    "model": "Hero 4.0 Gaming Desk",
+    "spec": {
+      "summary": "Игровой стол с подставкой под наушники",
+      "colour": "black",
+      "highlights": [
+        "136x66 cm",
+        "Cable management"
+      ]
+    }
+  },
+  {
+    "id": "aoc-27g4x",
+    "category": "monitor",
+    "brand": "AOC",
+    "model": "27G4X",
+    "spec": {
+      "size_inch": 27,
+      "resolution": "1920x1080",
+      "refresh_hz": 180,
+      "panel": "Fast IPS",
+      "response_ms": 0.5,
+      "adaptive_sync": true,
+      "curved": false,
+      "colour": "black"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "lg-27gs95qe-oled",
+    "category": "monitor",
+    "brand": "LG",
+    "model": "UltraGear 27GS95QE OLED",
+    "spec": {
+      "size_inch": 27,
+      "resolution": "2560x1440",
+      "refresh_hz": 240,
+      "panel": "OLED",
+      "response_ms": 0.03,
+      "adaptive_sync": true,
+      "curved": false,
+      "colour": "black"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "samsung-odyssey-g6-27",
+    "category": "monitor",
+    "brand": "Samsung",
+    "model": "Odyssey G6 27",
+    "spec": {
+      "size_inch": 27,
+      "resolution": "2560x1440",
+      "refresh_hz": 240,
+      "panel": "VA",
+      "response_ms": 1.0,
+      "adaptive_sync": true,
+      "curved": true,
+      "colour": "black"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "dell-s2721dgf",
+    "category": "monitor",
+    "brand": "Dell",
+    "model": "S2721DGF",
+    "spec": {
+      "size_inch": 27,
+      "resolution": "2560x1440",
+      "refresh_hz": 165,
+      "panel": "Fast IPS",
+      "response_ms": 1.0,
+      "adaptive_sync": true,
+      "curved": false,
+      "colour": "black"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "asus-tuf-vg27aq3a",
+    "category": "monitor",
+    "brand": "ASUS",
+    "model": "TUF Gaming VG27AQ3A",
+    "spec": {
+      "size_inch": 27,
+      "resolution": "2560x1440",
+      "refresh_hz": 180,
+      "panel": "Fast IPS",
+      "response_ms": 1.0,
+      "adaptive_sync": true,
+      "curved": false,
+      "colour": "black"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "aoc-u28g2xu",
+    "category": "monitor",
+    "brand": "AOC",
+    "model": "U28G2XU/BK",
+    "spec": {
+      "size_inch": 28,
+      "resolution": "3840x2160",
+      "refresh_hz": 144,
+      "panel": "IPS",
+      "response_ms": 1.0,
+      "adaptive_sync": true,
+      "curved": false,
+      "colour": "black"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "logitech-g-pro-2-lightspeed",
+    "category": "mouse",
+    "brand": "Logitech",
+    "model": "G PRO 2 LIGHTSPEED",
+    "spec": {
+      "summary": "Wireless esports mouse",
+      "wireless": true,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "32 000 DPI",
+        "60 g",
+        "Up to 95 h"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "razer-viper-v3-pro",
+    "category": "mouse",
+    "brand": "Razer",
+    "model": "Viper V3 Pro",
+    "spec": {
+      "summary": "Wireless esports mouse",
+      "wireless": true,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "35 000 DPI",
+        "54 g",
+        "8000 Hz polling"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "endgame-gear-xm2we",
+    "category": "mouse",
+    "brand": "Endgame Gear",
+    "model": "XM2we",
+    "spec": {
+      "summary": "Wireless lightweight mouse",
+      "wireless": true,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "26 000 DPI",
+        "63 g"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "steelseries-aerox-3",
+    "category": "mouse",
+    "brand": "SteelSeries",
+    "model": "Aerox 3",
+    "spec": {
+      "summary": "Lightweight perforated mouse",
+      "wireless": false,
+      "rgb": true,
+      "colour": "black",
+      "highlights": [
+        "8 500 DPI",
+        "59 g",
+        "IP54"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "logitech-g915-tkl",
+    "category": "keyboard",
+    "brand": "Logitech",
+    "model": "G915 TKL",
+    "spec": {
+      "summary": "Low-profile wireless mechanical keyboard",
+      "wireless": true,
+      "rgb": true,
+      "colour": "black",
+      "highlights": [
+        "GL Tactile",
+        "TKL",
+        "Up to 40 h"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "razer-blackwidow-v4-75",
+    "category": "keyboard",
+    "brand": "Razer",
+    "model": "BlackWidow V4 75%",
+    "spec": {
+      "summary": "Hot-swap mechanical keyboard",
+      "wireless": false,
+      "rgb": true,
+      "colour": "black",
+      "highlights": [
+        "75% layout",
+        "Hot-swap",
+        "Orange switches"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "keychron-k2-he",
+    "category": "keyboard",
+    "brand": "Keychron",
+    "model": "K2 HE",
+    "spec": {
+      "summary": "Wireless magnetic-switch keyboard",
+      "wireless": true,
+      "rgb": true,
+      "colour": "black",
+      "highlights": [
+        "75% layout",
+        "Hall effect",
+        "Adjustable actuation"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "corsair-k70-rgb-tkl",
+    "category": "keyboard",
+    "brand": "Corsair",
+    "model": "K70 RGB TKL",
+    "spec": {
+      "summary": "Tenkeyless mechanical keyboard",
+      "wireless": false,
+      "rgb": true,
+      "colour": "black",
+      "highlights": [
+        "MX Speed",
+        "TKL",
+        "8000 Hz polling"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "steelseries-arctis-nova-pro",
+    "category": "headset",
+    "brand": "SteelSeries",
+    "model": "Arctis Nova Pro",
+    "spec": {
+      "summary": "Hi-fi gaming headset with a base station",
+      "wireless": false,
+      "rgb": true,
+      "colour": "black",
+      "highlights": [
+        "Active noise cancelling",
+        "Hi-Res audio",
+        "Swappable battery"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "logitech-g435",
+    "category": "headset",
+    "brand": "Logitech",
+    "model": "G435 LIGHTSPEED",
+    "spec": {
+      "summary": "Lightweight wireless headset",
+      "wireless": true,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "165 g",
+        "Up to 18 h",
+        "Bluetooth + 2.4 GHz"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "hyperx-cloud-alpha",
+    "category": "headset",
+    "brand": "HyperX",
+    "model": "Cloud Alpha",
+    "spec": {
+      "summary": "Wired headset with dual-chamber drivers",
+      "wireless": false,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "Dual chamber",
+        "Detachable mic",
+        "336 g"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "logitech-g502-x-plus",
+    "category": "mouse",
+    "brand": "Logitech",
+    "model": "G502 X PLUS",
+    "spec": {
+      "summary": "Wireless mouse with optical switches",
+      "wireless": true,
+      "rgb": true,
+      "colour": "black",
+      "highlights": [
+        "25 600 DPI",
+        "106 g",
+        "LIGHTFORCE switches"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "razer-goliathus-extended",
+    "category": "mousepad",
+    "brand": "Razer",
+    "model": "Goliathus Extended Chroma",
+    "spec": {
+      "summary": "Extended cloth mat with lighting",
+      "wireless": false,
+      "rgb": true,
+      "colour": "black",
+      "highlights": [
+        "920x294 mm",
+        "3 mm"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "steelseries-qck-heavy",
+    "category": "mousepad",
+    "brand": "SteelSeries",
+    "model": "QcK Heavy",
+    "spec": {
+      "summary": "Thick cloth mat",
+      "wireless": false,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "450x400 mm",
+        "6 mm"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "elgato-facecam-mk2",
+    "category": "webcam",
+    "brand": "Elgato",
+    "model": "Facecam MK.2",
+    "spec": {
+      "summary": "1080p60 camera with a fixed-focus lens",
+      "wireless": false,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "1080p 60 fps",
+        "Sony STARVIS",
+        "USB-C"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "logitech-brio-500",
+    "category": "webcam",
+    "brand": "Logitech",
+    "model": "Brio 500",
+    "spec": {
+      "summary": "1080p camera with auto framing",
+      "wireless": false,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "1080p 30 fps",
+        "Auto framing",
+        "Privacy shutter"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "edifier-r1280t",
+    "category": "speakers",
+    "brand": "Edifier",
+    "model": "R1280T",
+    "spec": {
+      "summary": "Bookshelf speakers",
+      "wireless": false,
+      "rgb": false,
+      "colour": "other",
+      "highlights": [
+        "42 W",
+        "4\" bass driver",
+        "RCA"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "logitech-z407",
+    "category": "speakers",
+    "brand": "Logitech",
+    "model": "Z407",
+    "spec": {
+      "summary": "2.1 speakers with a wireless dial",
+      "wireless": false,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "80 W peak",
+        "Bluetooth",
+        "Wireless control"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "shure-mv7-plus",
+    "category": "microphone",
+    "brand": "Shure",
+    "model": "MV7+",
+    "spec": {
+      "summary": "Hybrid USB and XLR broadcast microphone",
+      "wireless": false,
+      "rgb": true,
+      "colour": "black",
+      "highlights": [
+        "USB-C + XLR",
+        "Dynamic",
+        "Onboard DSP"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "rode-nt-usb-mini",
+    "category": "microphone",
+    "brand": "RODE",
+    "model": "NT-USB Mini",
+    "spec": {
+      "summary": "Compact USB condenser microphone",
+      "wireless": false,
+      "rgb": false,
+      "colour": "black",
+      "highlights": [
+        "24-bit 48 kHz",
+        "Magnetic stand",
+        "Zero-latency monitoring"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  }
+]

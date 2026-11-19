@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "currency": "PLN",
+    "description": "VERIFIED market prices: the exact model, seen at a named Polish source on a given date. Only entries here may be shown to a customer as a market price. Anything not listed falls back to app/data/prices/reference_pln.json, which is an ESTIMATE and is labelled as such.",
+    "how_to_add": "Run: python -m scripts.set_market_price <component-id> <price> --source \"x-kom\" --url \"https://...\" ; or edit by hand with the same fields.",
+    "fields": {
+      "price": "number, PLN, incl. VAT, as displayed at the source",
+      "source": "store name, e.g. x-kom, Morele, Media Expert, Komputronik, Allegro, manufacturer",
+      "url": "the product page you read the price from",
+      "checked_at": "ISO date, e.g. 2026-08-22",
+      "note": "optional"
+    },
+    "stale_after_days": 14
+  },
+  "prices": {}
+}

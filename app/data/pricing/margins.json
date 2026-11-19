@@ -1,0 +1,126 @@
+{
+  "_meta": {
+    "description": "Commercial pricing policy v3. Edit here, restart the bot - no code change needed.",
+    "category_margin_range": "Per-category mark-up range in percent [min, max]. Pricing starts at min and the optimiser moves every category up the SAME fraction of its range until the order reaches target profit - so profit is spread across parts, not dumped on the GPU.",
+    "bands": "Minimum absolute profit per item by market-price band; the higher of percent and minimum wins.",
+    "profit": "Per-order profit goals in PLN. minimum: below this the admin is warned; target: what the optimiser aims for; good: the 'good order' line.",
+    "profit_tiers": "Admin-only labels by total gross profit (lower bound of each tier).",
+    "assembly": "Assembly service tiers. 'includes' lists ONLY work that is actually performed - it is shown to the customer. The optimiser may raise the tier by one step to protect profit.",
+    "operating_costs": "Estimated per-order costs not tied to a part: packaging, thermal paste, cable ties, transport share (fixed) and payment/processing fees (percent of customer price). Net profit = gross - these.",
+    "rounding": "Customer total is rounded UP to the next price ending in 49 or 99: 6 387 -> 6 399, 6 421 -> 6 449, 6 478 -> 6 499."
+  },
+  "default_margin_range": [10, 15],
+  "category_margin_range": {
+    "cpu": [6, 10],
+    "gpu": [5, 9],
+    "motherboard": [8, 12],
+    "ram": [10, 15],
+    "ssd": [10, 15],
+    "psu": [8, 12],
+    "case": [12, 18],
+    "cooler": [12, 18],
+    "fans": [15, 25],
+    "monitor": [8, 15],
+    "desk": [10, 20],
+    "chair": [10, 20],
+    "keyboard": [15, 20],
+    "mouse": [15, 20],
+    "headset": [15, 20],
+    "microphone": [15, 20],
+    "webcam": [15, 25],
+    "speakers": [15, 25],
+    "mousepad": [15, 25],
+    "lighting": [15, 25],
+    "wifi_adapter": [15, 25],
+    "bluetooth_adapter": [15, 25],
+    "operating_system": [8, 12],
+    "other": [15, 25]
+  },
+  "bands": [
+    { "up_to_pln": 300, "min_profit_pln": 30 },
+    { "up_to_pln": 700, "min_profit_pln": 50 },
+    { "up_to_pln": 1500, "min_profit_pln": 80 },
+    { "up_to_pln": 3000, "min_profit_pln": 120 },
+    { "up_to_pln": 5000, "min_profit_pln": 200 },
+    { "up_to_pln": null, "min_profit_pln": 300 }
+  ],
+  "profit": {
+    "minimum_order_profit_pln": 700,
+    "target_order_profit_pln": 850,
+    "good_order_profit_pln": 1000
+  },
+  "profit_tiers": [
+    { "name": "LOW", "emoji": "🔴", "from_pln": 0 },
+    { "name": "ACCEPTABLE", "emoji": "🟡", "from_pln": 500 },
+    { "name": "TARGET", "emoji": "🟢", "from_pln": 700 },
+    { "name": "GOOD", "emoji": "🔥", "from_pln": 900 },
+    { "name": "EXCELLENT", "emoji": "💎", "from_pln": 1000 }
+  ],
+  "assembly": {
+    "by_complexity": {
+      "easy": "basic",
+      "standard": "standard",
+      "advanced": "standard",
+      "complex": "premium",
+      "extreme": "premium"
+    },
+    "tiers": {
+      "basic": {
+        "name": "Basic",
+        "fee_pln": 149,
+        "includes": [
+          "assembly",
+          "component_installation",
+          "cable_management",
+          "bios_configuration",
+          "driver_installation",
+          "stability_check"
+        ]
+      },
+      "standard": {
+        "name": "Standard",
+        "fee_pln": 199,
+        "includes": [
+          "assembly",
+          "component_installation",
+          "cable_management",
+          "bios_configuration",
+          "driver_installation",
+          "windows_basic_setup",
+          "temperature_check",
+          "stress_test",
+          "stability_check",
+          "final_inspection"
+        ]
+      },
+      "premium": {
+        "name": "Premium",
+        "fee_pln": 299,
+        "includes": [
+          "assembly",
+          "component_installation",
+          "cable_management",
+          "bios_configuration",
+          "bios_tuning",
+          "fan_curve",
+          "driver_installation",
+          "windows_basic_setup",
+          "temperature_check",
+          "extended_stress_test",
+          "cpu_gpu_test",
+          "stability_check",
+          "final_inspection",
+          "final_diagnostics",
+          "photos_of_finished_pc"
+        ]
+      }
+    }
+  },
+  "other_services": {},
+  "operating_costs": {
+    "fixed_pln": 50,
+    "percent_of_price": 1.0
+  },
+  "rounding_step_pln": 50,
+  "competitiveness_warn_percent": 5
+}

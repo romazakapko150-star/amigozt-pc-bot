@@ -1,0 +1,73 @@
+[project]
+name = "amigozt-pc"
+version = "0.1.0"
+description = "AmigoZT PC - AI-powered custom PC configurator Telegram bot"
+requires-python = ">=3.11"
+dependencies = [
+    "aiogram>=3.15,<4",
+    "sqlalchemy[asyncio]>=2.0.36",
+    "alembic>=1.14",
+    "aiosqlite>=0.20",
+    "pydantic>=2.9",
+    "pydantic-settings>=2.6",
+    "pillow>=10",
+]
+
+[project.optional-dependencies]
+postgres = ["asyncpg>=0.30"]
+redis = ["redis>=5.2"]
+# Photorealistic build visualisation via an image-generation API.
+ai = ["openai>=1.50"]
+dev = [
+    "pytest>=8.3",
+    "pytest-asyncio>=0.24",
+    "ruff>=0.8",
+    "mypy>=1.13",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["app*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "RUF"]
+ignore = ["B008"]
+
+[tool.ruff.lint.per-file-ignores]
+# Locale files legitimately mix Cyrillic/Latin lookalikes and typographic
+# punctuation - that is the translation, not a typo.
+"app/i18n/*.py" = ["RUF001", "RUF002", "RUF003"]
+# The admin interface is Russian-only internal tooling (see its module docstring).
+"app/bot/views/admin.py" = ["RUF001", "RUF002", "RUF003"]
+"app/bot/views/compatibility.py" = ["RUF001", "RUF002", "RUF003"]
+"app/bot/views/visuals.py" = ["RUF001", "RUF002", "RUF003"]
+"tests/test_order_gate.py" = ["RUF001"]
+"app/bot/handlers/admin.py" = ["RUF001", "RUF002", "RUF003"]
+"app/bot/keyboards/admin.py" = ["RUF001", "RUF002", "RUF003"]
+# Catalogue copy is Russian product text, not code.
+"app/services/ready_builds/catalogue.py" = ["RUF001", "RUF002", "RUF003"]
+# Preset names are the Russian labels the customer sees on the colour picker.
+"app/services/media/presets.py" = ["RUF001", "RUF002", "RUF003"]
+# The test env var must be set before the app modules are imported.
+"tests/conftest.py" = ["E402"]
+# Tests assert on Russian product copy.
+"tests/test_sections.py" = ["RUF001"]
+
+[tool.mypy]
+python_version = "3.11"
+warn_unused_ignores = true
+disallow_untyped_defs = true
+ignore_missing_imports = true
+plugins = ["pydantic.mypy"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+filterwarnings = ["ignore::DeprecationWarning"]

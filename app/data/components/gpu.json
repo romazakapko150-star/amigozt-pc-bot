@@ -1,0 +1,515 @@
+[
+  {
+    "id": "nvidia-rtx-4060",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "model": "GeForce RTX 4060 8GB",
+    "spec": {
+      "vram_gb": 8,
+      "tdp_w": 115,
+      "recommended_psu_w": 550,
+      "length_mm": 245,
+      "slots": 2,
+      "pcie_8pin": 1,
+      "pcie_12vhpwr": 0,
+      "performance_index": 300,
+      "ray_tracing": true,
+      "upscaling": [
+        "DLSS",
+        "FSR",
+        "XeSS"
+      ],
+      "outputs": {
+        "hdmi": 1,
+        "hdmi_version": "2.1a",
+        "displayport": 3,
+        "displayport_version": "1.4a"
+      }
+    },
+    "spec_source": "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4060-4060ti/",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": false,
+    "spec_notes": [
+      "length_mm is a typical partner-card value for this reference model, not a measured card - confirm the exact model's length before purchase",
+      "Some partner cards use 1x 6-pin instead of 1x 8-pin"
+    ]
+  },
+  {
+    "id": "nvidia-rtx-4060-ti-16gb",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "model": "GeForce RTX 4060 Ti 16GB",
+    "spec": {
+      "vram_gb": 16,
+      "tdp_w": 165,
+      "recommended_psu_w": 600,
+      "length_mm": 270,
+      "slots": 2,
+      "pcie_8pin": 1,
+      "pcie_12vhpwr": 0,
+      "performance_index": 360,
+      "ray_tracing": true,
+      "upscaling": [
+        "DLSS",
+        "FSR",
+        "XeSS"
+      ],
+      "outputs": {
+        "hdmi": 1,
+        "hdmi_version": "2.1a",
+        "displayport": 3,
+        "displayport_version": "1.4a"
+      }
+    },
+    "spec_source": "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4060-4060ti/",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": false,
+    "spec_notes": [
+      "length_mm is a typical partner-card value for this reference model, not a measured card - confirm the exact model's length before purchase",
+      "Founders Edition: 244 x 112 mm, 2 slots"
+    ]
+  },
+  {
+    "id": "nvidia-rtx-4070-super",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "model": "GeForce RTX 4070 SUPER 12GB",
+    "spec": {
+      "vram_gb": 12,
+      "tdp_w": 220,
+      "recommended_psu_w": 650,
+      "length_mm": 290,
+      "slots": 2.5,
+      "pcie_8pin": 2,
+      "pcie_12vhpwr": 0,
+      "performance_index": 520,
+      "ray_tracing": true,
+      "upscaling": [
+        "DLSS",
+        "FSR",
+        "XeSS"
+      ],
+      "outputs": {
+        "hdmi": 1,
+        "hdmi_version": "2.1a",
+        "displayport": 3,
+        "displayport_version": "1.4a"
+      },
+      "adapter_included": true
+    },
+    "spec_source": "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4070-family/",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": false,
+    "spec_notes": [
+      "length_mm is a typical partner-card value for this reference model, not a measured card - confirm the exact model's length before purchase",
+      "NVIDIA: 2x PCIe 8-pin via the in-box adapter OR one 300 W+ 12VHPWR cable; partner cards differ - confirm the connector on the exact model",
+      "Founders Edition: 244 x 112 mm, 2 slots"
+    ]
+  },
+  {
+    "id": "nvidia-rtx-4070-ti-super",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "model": "GeForce RTX 4070 Ti SUPER 16GB",
+    "spec": {
+      "vram_gb": 16,
+      "tdp_w": 285,
+      "recommended_psu_w": 700,
+      "length_mm": 305,
+      "slots": 3,
+      "pcie_8pin": 2,
+      "pcie_12vhpwr": 0,
+      "performance_index": 600,
+      "ray_tracing": true,
+      "upscaling": [
+        "DLSS",
+        "FSR",
+        "XeSS"
+      ],
+      "outputs": {
+        "hdmi": 1,
+        "hdmi_version": "2.1a",
+        "displayport": 3,
+        "displayport_version": "1.4a"
+      },
+      "adapter_included": true
+    },
+    "spec_source": "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4070-family/",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": false,
+    "spec_notes": [
+      "length_mm is a typical partner-card value for this reference model, not a measured card - confirm the exact model's length before purchase",
+      "NVIDIA: 2x PCIe 8-pin via the in-box adapter OR one 300 W+ 12VHPWR cable"
+    ]
+  },
+  {
+    "id": "nvidia-rtx-4080-super",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "model": "GeForce RTX 4080 SUPER 16GB",
+    "spec": {
+      "vram_gb": 16,
+      "tdp_w": 320,
+      "recommended_psu_w": 750,
+      "length_mm": 310,
+      "slots": 3,
+      "pcie_8pin": 3,
+      "pcie_12vhpwr": 1,
+      "performance_index": 720,
+      "ray_tracing": true,
+      "upscaling": [
+        "DLSS",
+        "FSR",
+        "XeSS"
+      ],
+      "outputs": {
+        "hdmi": 1,
+        "hdmi_version": "2.1a",
+        "displayport": 3,
+        "displayport_version": "1.4a"
+      },
+      "adapter_included": true
+    },
+    "spec_source": "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4080-family/",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": false,
+    "spec_notes": [
+      "length_mm is a typical partner-card value for this reference model, not a measured card - confirm the exact model's length before purchase",
+      "Founders Edition: 304 x 137 mm, 3 slots"
+    ]
+  },
+  {
+    "id": "nvidia-rtx-5070",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "model": "GeForce RTX 5070 12GB",
+    "spec": {
+      "vram_gb": 12,
+      "tdp_w": 250,
+      "recommended_psu_w": 650,
+      "length_mm": 300,
+      "slots": 2.5,
+      "pcie_8pin": 2,
+      "pcie_12vhpwr": 1,
+      "performance_index": 570,
+      "ray_tracing": true,
+      "upscaling": [
+        "DLSS",
+        "FSR",
+        "XeSS"
+      ],
+      "outputs": {
+        "hdmi": 1,
+        "hdmi_version": "2.1b",
+        "displayport": 3,
+        "displayport_version": "2.1b"
+      },
+      "adapter_included": true
+    },
+    "spec_source": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": false,
+    "spec_notes": [
+      "length_mm is a typical partner-card value for this reference model, not a measured card - confirm the exact model's length before purchase",
+      "Founders Edition: 242 x 112 mm, 2 slots"
+    ]
+  },
+  {
+    "id": "nvidia-rtx-5070-ti",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "model": "GeForce RTX 5070 Ti 16GB",
+    "spec": {
+      "vram_gb": 16,
+      "tdp_w": 300,
+      "recommended_psu_w": 750,
+      "length_mm": 305,
+      "slots": 3,
+      "pcie_8pin": 2,
+      "pcie_12vhpwr": 1,
+      "performance_index": 680,
+      "ray_tracing": true,
+      "upscaling": [
+        "DLSS",
+        "FSR",
+        "XeSS"
+      ],
+      "outputs": {
+        "hdmi": 1,
+        "hdmi_version": "2.1b",
+        "displayport": 3,
+        "displayport_version": "2.1b"
+      },
+      "adapter_included": true
+    },
+    "spec_source": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": false,
+    "spec_notes": [
+      "length_mm is a typical partner-card value for this reference model, not a measured card - confirm the exact model's length before purchase",
+      "NVIDIA: 2x PCIe 8-pin via the in-box adapter"
+    ]
+  },
+  {
+    "id": "nvidia-rtx-5080",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "model": "GeForce RTX 5080 16GB",
+    "spec": {
+      "vram_gb": 16,
+      "tdp_w": 360,
+      "recommended_psu_w": 850,
+      "length_mm": 310,
+      "slots": 3,
+      "pcie_8pin": 3,
+      "pcie_12vhpwr": 1,
+      "performance_index": 790,
+      "ray_tracing": true,
+      "upscaling": [
+        "DLSS",
+        "FSR",
+        "XeSS"
+      ]
+    },
+    "spec_verified": false,
+    "spec_notes": [
+      "length_mm is a typical partner-card value for this reference model, not a measured card - confirm the exact model's length before purchase",
+      "Display outputs not verified (page unavailable)"
+    ]
+  },
+  {
+    "id": "nvidia-rtx-5090",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "model": "GeForce RTX 5090 32GB",
+    "spec": {
+      "vram_gb": 32,
+      "tdp_w": 575,
+      "recommended_psu_w": 1000,
+      "length_mm": 330,
+      "slots": 3.5,
+      "pcie_8pin": 4,
+      "pcie_12vhpwr": 1,
+      "performance_index": 1000,
+      "ray_tracing": true,
+      "upscaling": [
+        "DLSS",
+        "FSR",
+        "XeSS"
+      ]
+    },
+    "spec_verified": false,
+    "spec_notes": [
+      "length_mm is a typical partner-card value for this reference model, not a measured card - confirm the exact model's length before purchase",
+      "Display outputs not verified (page unavailable)"
+    ]
+  },
+  {
+    "id": "amd-rx-7600",
+    "category": "gpu",
+    "brand": "AMD",
+    "model": "Radeon RX 7600 8GB",
+    "spec": {
+      "vram_gb": 8,
+      "tdp_w": 165,
+      "recommended_psu_w": 550,
+      "length_mm": 250,
+      "slots": 2,
+      "pcie_8pin": 1,
+      "pcie_12vhpwr": 0,
+      "performance_index": 290,
+      "ray_tracing": true,
+      "upscaling": [
+        "FSR",
+        "XeSS"
+      ]
+    },
+    "spec_verified": false,
+    "spec_notes": [
+      "length_mm is a typical partner-card value for this reference model, not a measured card - confirm the exact model's length before purchase",
+      "Display outputs not verified (vendor page unavailable)"
+    ]
+  },
+  {
+    "id": "amd-rx-7700-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "model": "Radeon RX 7700 XT 12GB",
+    "spec": {
+      "vram_gb": 12,
+      "tdp_w": 245,
+      "recommended_psu_w": 700,
+      "length_mm": 280,
+      "slots": 2.5,
+      "pcie_8pin": 2,
+      "pcie_12vhpwr": 0,
+      "performance_index": 450,
+      "ray_tracing": true,
+      "upscaling": [
+        "FSR",
+        "XeSS"
+      ]
+    },
+    "spec_verified": false,
+    "spec_notes": [
+      "length_mm is a typical partner-card value for this reference model, not a measured card - confirm the exact model's length before purchase",
+      "Display outputs not verified (vendor page unavailable)"
+    ]
+  },
+  {
+    "id": "amd-rx-7800-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "model": "Radeon RX 7800 XT 16GB",
+    "spec": {
+      "vram_gb": 16,
+      "tdp_w": 263,
+      "recommended_psu_w": 700,
+      "length_mm": 285,
+      "slots": 2.5,
+      "pcie_8pin": 2,
+      "pcie_12vhpwr": 0,
+      "performance_index": 520,
+      "ray_tracing": true,
+      "upscaling": [
+        "FSR",
+        "XeSS"
+      ]
+    },
+    "spec_verified": false,
+    "spec_notes": [
+      "length_mm is a typical partner-card value for this reference model, not a measured card - confirm the exact model's length before purchase",
+      "Display outputs not verified (vendor page unavailable)"
+    ]
+  },
+  {
+    "id": "amd-rx-7900-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "model": "Radeon RX 7900 XT 20GB",
+    "spec": {
+      "vram_gb": 20,
+      "tdp_w": 315,
+      "recommended_psu_w": 750,
+      "length_mm": 300,
+      "slots": 2.5,
+      "pcie_8pin": 2,
+      "pcie_12vhpwr": 0,
+      "performance_index": 640,
+      "ray_tracing": true,
+      "upscaling": [
+        "FSR",
+        "XeSS"
+      ]
+    },
+    "spec_verified": false,
+    "spec_notes": [
+      "length_mm is a typical partner-card value for this reference model, not a measured card - confirm the exact model's length before purchase",
+      "Display outputs not verified (vendor page unavailable)"
+    ]
+  },
+  {
+    "id": "amd-rx-7900-xtx",
+    "category": "gpu",
+    "brand": "AMD",
+    "model": "Radeon RX 7900 XTX 24GB",
+    "spec": {
+      "vram_gb": 24,
+      "tdp_w": 355,
+      "recommended_psu_w": 800,
+      "length_mm": 320,
+      "slots": 3,
+      "pcie_8pin": 2,
+      "pcie_12vhpwr": 0,
+      "performance_index": 720,
+      "ray_tracing": true,
+      "upscaling": [
+        "FSR",
+        "XeSS"
+      ]
+    },
+    "spec_verified": false,
+    "spec_notes": [
+      "length_mm is a typical partner-card value for this reference model, not a measured card - confirm the exact model's length before purchase",
+      "Display outputs not verified (vendor page unavailable)"
+    ]
+  },
+  {
+    "id": "amd-rx-9070",
+    "category": "gpu",
+    "brand": "AMD",
+    "model": "Radeon RX 9070 16GB",
+    "spec": {
+      "vram_gb": 16,
+      "tdp_w": 220,
+      "recommended_psu_w": 650,
+      "length_mm": 290,
+      "slots": 2.5,
+      "pcie_8pin": 2,
+      "pcie_12vhpwr": 0,
+      "performance_index": 590,
+      "ray_tracing": true,
+      "upscaling": [
+        "FSR",
+        "XeSS"
+      ]
+    },
+    "spec_verified": false,
+    "spec_notes": [
+      "length_mm is a typical partner-card value for this reference model, not a measured card - confirm the exact model's length before purchase",
+      "Display outputs not verified (vendor page unavailable)"
+    ]
+  },
+  {
+    "id": "amd-rx-9070-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "model": "Radeon RX 9070 XT 16GB",
+    "spec": {
+      "vram_gb": 16,
+      "tdp_w": 304,
+      "recommended_psu_w": 750,
+      "length_mm": 300,
+      "slots": 3,
+      "pcie_8pin": 2,
+      "pcie_12vhpwr": 0,
+      "performance_index": 670,
+      "ray_tracing": true,
+      "upscaling": [
+        "FSR",
+        "XeSS"
+      ]
+    },
+    "spec_verified": false,
+    "spec_notes": [
+      "length_mm is a typical partner-card value for this reference model, not a measured card - confirm the exact model's length before purchase",
+      "Display outputs not verified (vendor page unavailable)"
+    ]
+  },
+  {
+    "id": "intel-arc-b580",
+    "category": "gpu",
+    "brand": "Intel",
+    "model": "Arc B580 12GB",
+    "spec": {
+      "vram_gb": 12,
+      "tdp_w": 190,
+      "recommended_psu_w": 600,
+      "length_mm": 272,
+      "slots": 2,
+      "pcie_8pin": 1,
+      "pcie_12vhpwr": 0,
+      "performance_index": 310,
+      "ray_tracing": true,
+      "upscaling": [
+        "XeSS",
+        "FSR"
+      ]
+    },
+    "spec_verified": false,
+    "spec_notes": [
+      "length_mm is a typical partner-card value for this reference model, not a measured card - confirm the exact model's length before purchase",
+      "Display outputs not verified (vendor page unavailable)"
+    ]
+  }
+]

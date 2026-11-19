@@ -1,0 +1,445 @@
+[
+  {
+    "id": "amd-ryzen-5-5600",
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "Ryzen 5 5600",
+    "spec": {
+      "socket": "AM4",
+      "cores": 6,
+      "threads": 12,
+      "tdp_w": 65,
+      "max_power_w": 88,
+      "memory_types": [
+        "DDR4"
+      ],
+      "max_memory_speed_mhz": 3600,
+      "integrated_graphics": false,
+      "includes_cooler": true,
+      "performance_index": 300,
+      "gaming_index": 330,
+      "family": "ryzen_5000"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "amd-ryzen-5-5600x",
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "Ryzen 5 5600X",
+    "spec": {
+      "socket": "AM4",
+      "cores": 6,
+      "threads": 12,
+      "tdp_w": 65,
+      "max_power_w": 88,
+      "memory_types": [
+        "DDR4"
+      ],
+      "max_memory_speed_mhz": 3600,
+      "integrated_graphics": false,
+      "includes_cooler": true,
+      "performance_index": 320,
+      "gaming_index": 350,
+      "family": "ryzen_5000"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "amd-ryzen-7-5700x3d",
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "Ryzen 7 5700X3D",
+    "spec": {
+      "socket": "AM4",
+      "cores": 8,
+      "threads": 16,
+      "tdp_w": 105,
+      "max_power_w": 142,
+      "memory_types": [
+        "DDR4"
+      ],
+      "max_memory_speed_mhz": 3600,
+      "integrated_graphics": false,
+      "includes_cooler": false,
+      "performance_index": 400,
+      "gaming_index": 500,
+      "family": "ryzen_5000x3d"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "amd-ryzen-5-7600",
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "Ryzen 5 7600",
+    "spec": {
+      "socket": "AM5",
+      "cores": 6,
+      "threads": 12,
+      "tdp_w": 65,
+      "max_power_w": 88,
+      "memory_types": [
+        "DDR5"
+      ],
+      "max_memory_speed_mhz": 6000,
+      "integrated_graphics": true,
+      "includes_cooler": true,
+      "performance_index": 420,
+      "gaming_index": 470,
+      "family": "ryzen_7000"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "amd-ryzen-5-7600x",
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "Ryzen 5 7600X",
+    "spec": {
+      "socket": "AM5",
+      "cores": 6,
+      "threads": 12,
+      "tdp_w": 105,
+      "max_power_w": 142,
+      "memory_types": [
+        "DDR5"
+      ],
+      "max_memory_speed_mhz": 6000,
+      "integrated_graphics": true,
+      "includes_cooler": false,
+      "performance_index": 450,
+      "gaming_index": 500,
+      "family": "ryzen_7000"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "amd-ryzen-7-7700",
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "Ryzen 7 7700",
+    "spec": {
+      "socket": "AM5",
+      "cores": 8,
+      "threads": 16,
+      "tdp_w": 65,
+      "max_power_w": 88,
+      "memory_types": [
+        "DDR5"
+      ],
+      "max_memory_speed_mhz": 6000,
+      "integrated_graphics": true,
+      "includes_cooler": true,
+      "performance_index": 500,
+      "gaming_index": 510,
+      "family": "ryzen_7000"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "amd-ryzen-7-7800x3d",
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "Ryzen 7 7800X3D",
+    "spec": {
+      "socket": "AM5",
+      "cores": 8,
+      "threads": 16,
+      "tdp_w": 120,
+      "max_power_w": 162,
+      "memory_types": [
+        "DDR5"
+      ],
+      "max_memory_speed_mhz": 6000,
+      "integrated_graphics": true,
+      "includes_cooler": false,
+      "performance_index": 560,
+      "gaming_index": 700,
+      "family": "ryzen_7000x3d"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "amd-ryzen-9-7900x",
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "Ryzen 9 7900X",
+    "spec": {
+      "socket": "AM5",
+      "cores": 12,
+      "threads": 24,
+      "tdp_w": 170,
+      "max_power_w": 230,
+      "memory_types": [
+        "DDR5"
+      ],
+      "max_memory_speed_mhz": 6000,
+      "integrated_graphics": true,
+      "includes_cooler": false,
+      "performance_index": 640,
+      "gaming_index": 540,
+      "family": "ryzen_7000"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "amd-ryzen-9-7950x",
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "Ryzen 9 7950X",
+    "spec": {
+      "socket": "AM5",
+      "cores": 16,
+      "threads": 32,
+      "tdp_w": 170,
+      "max_power_w": 230,
+      "memory_types": [
+        "DDR5"
+      ],
+      "max_memory_speed_mhz": 6000,
+      "integrated_graphics": true,
+      "includes_cooler": false,
+      "performance_index": 760,
+      "gaming_index": 560,
+      "family": "ryzen_7000"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "amd-ryzen-5-9600x",
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "Ryzen 5 9600X",
+    "spec": {
+      "socket": "AM5",
+      "cores": 6,
+      "threads": 12,
+      "tdp_w": 65,
+      "max_power_w": 88,
+      "memory_types": [
+        "DDR5"
+      ],
+      "max_memory_speed_mhz": 6000,
+      "integrated_graphics": true,
+      "includes_cooler": false,
+      "performance_index": 480,
+      "gaming_index": 530,
+      "family": "ryzen_9000"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "amd-ryzen-7-9700x",
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "Ryzen 7 9700X",
+    "spec": {
+      "socket": "AM5",
+      "cores": 8,
+      "threads": 16,
+      "tdp_w": 65,
+      "max_power_w": 88,
+      "memory_types": [
+        "DDR5"
+      ],
+      "max_memory_speed_mhz": 6000,
+      "integrated_graphics": true,
+      "includes_cooler": false,
+      "performance_index": 560,
+      "gaming_index": 560,
+      "family": "ryzen_9000"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "amd-ryzen-7-9800x3d",
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "Ryzen 7 9800X3D",
+    "spec": {
+      "socket": "AM5",
+      "cores": 8,
+      "threads": 16,
+      "tdp_w": 120,
+      "max_power_w": 162,
+      "memory_types": [
+        "DDR5"
+      ],
+      "max_memory_speed_mhz": 6000,
+      "integrated_graphics": true,
+      "includes_cooler": false,
+      "performance_index": 640,
+      "gaming_index": 800,
+      "family": "ryzen_9000x3d"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "amd-ryzen-9-9950x",
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "Ryzen 9 9950X",
+    "spec": {
+      "socket": "AM5",
+      "cores": 16,
+      "threads": 32,
+      "tdp_w": 170,
+      "max_power_w": 230,
+      "memory_types": [
+        "DDR5"
+      ],
+      "max_memory_speed_mhz": 6000,
+      "integrated_graphics": true,
+      "includes_cooler": false,
+      "performance_index": 850,
+      "gaming_index": 620,
+      "family": "ryzen_9000"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "intel-core-i5-12400f",
+    "category": "cpu",
+    "brand": "Intel",
+    "model": "Core i5-12400F",
+    "spec": {
+      "socket": "LGA1700",
+      "cores": 6,
+      "threads": 12,
+      "tdp_w": 65,
+      "max_power_w": 117,
+      "memory_types": [
+        "DDR4",
+        "DDR5"
+      ],
+      "max_memory_speed_mhz": 4800,
+      "integrated_graphics": false,
+      "includes_cooler": true,
+      "performance_index": 310,
+      "gaming_index": 350,
+      "family": "core_12th"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "intel-core-i5-13400f",
+    "category": "cpu",
+    "brand": "Intel",
+    "model": "Core i5-13400F",
+    "spec": {
+      "socket": "LGA1700",
+      "cores": 10,
+      "threads": 16,
+      "tdp_w": 65,
+      "max_power_w": 148,
+      "memory_types": [
+        "DDR4",
+        "DDR5"
+      ],
+      "max_memory_speed_mhz": 5600,
+      "integrated_graphics": false,
+      "includes_cooler": true,
+      "performance_index": 400,
+      "gaming_index": 420,
+      "family": "core_13th"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "intel-core-i5-13600kf",
+    "category": "cpu",
+    "brand": "Intel",
+    "model": "Core i5-13600KF",
+    "spec": {
+      "socket": "LGA1700",
+      "cores": 14,
+      "threads": 20,
+      "tdp_w": 125,
+      "max_power_w": 181,
+      "memory_types": [
+        "DDR4",
+        "DDR5"
+      ],
+      "max_memory_speed_mhz": 5600,
+      "integrated_graphics": false,
+      "includes_cooler": false,
+      "performance_index": 520,
+      "gaming_index": 530,
+      "family": "core_13th"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "intel-core-i5-14600kf",
+    "category": "cpu",
+    "brand": "Intel",
+    "model": "Core i5-14600KF",
+    "spec": {
+      "socket": "LGA1700",
+      "cores": 14,
+      "threads": 20,
+      "tdp_w": 125,
+      "max_power_w": 181,
+      "memory_types": [
+        "DDR4",
+        "DDR5"
+      ],
+      "max_memory_speed_mhz": 5600,
+      "integrated_graphics": false,
+      "includes_cooler": false,
+      "performance_index": 545,
+      "gaming_index": 550,
+      "family": "core_14th"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "intel-core-i7-14700kf",
+    "category": "cpu",
+    "brand": "Intel",
+    "model": "Core i7-14700KF",
+    "spec": {
+      "socket": "LGA1700",
+      "cores": 20,
+      "threads": 28,
+      "tdp_w": 125,
+      "max_power_w": 253,
+      "memory_types": [
+        "DDR4",
+        "DDR5"
+      ],
+      "max_memory_speed_mhz": 5600,
+      "integrated_graphics": false,
+      "includes_cooler": false,
+      "performance_index": 700,
+      "gaming_index": 580,
+      "family": "core_14th"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "intel-core-i9-14900k",
+    "category": "cpu",
+    "brand": "Intel",
+    "model": "Core i9-14900K",
+    "spec": {
+      "socket": "LGA1700",
+      "cores": 24,
+      "threads": 32,
+      "tdp_w": 125,
+      "max_power_w": 253,
+      "memory_types": [
+        "DDR4",
+        "DDR5"
+      ],
+      "max_memory_speed_mhz": 5600,
+      "integrated_graphics": true,
+      "includes_cooler": false,
+      "performance_index": 820,
+      "gaming_index": 620,
+      "family": "core_14th"
+    },
+    "spec_verified": false
+  }
+]

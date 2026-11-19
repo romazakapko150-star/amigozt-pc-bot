@@ -1,0 +1,1824 @@
+[
+  {
+    "id": "bequiet-system-power-10-550",
+    "category": "psu",
+    "brand": "be quiet!",
+    "model": "System Power 10 550W",
+    "spec": {
+      "wattage": 550,
+      "efficiency": "80+ Bronze",
+      "modular": "non-modular",
+      "atx_version": "ATX 2.x (no 12VHPWR)",
+      "pcie_8pin": 2,
+      "pcie_12vhpwr": 0,
+      "eps_8pin": 1,
+      "length_mm": 150,
+      "form_factor": "ATX"
+    },
+    "spec_source": "https://www.x-kom.pl/p/1078347-zasilacz-do-komputera-be-quiet-system-power-10-550w-80-plus-bronze.html",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "x-kom lists the product as withdrawn (2026-08-22)"
+    ]
+  },
+  {
+    "id": "corsair-rm650e",
+    "category": "psu",
+    "brand": "Corsair",
+    "model": "RM650e 650W",
+    "spec": {
+      "wattage": 650,
+      "efficiency": "80+ Gold",
+      "modular": "full",
+      "atx_version": "ATX 3.1",
+      "pcie_8pin": 3,
+      "pcie_12vhpwr": 1,
+      "eps_8pin": 2,
+      "length_mm": 140,
+      "form_factor": "ATX"
+    },
+    "spec_source": "https://www.corsair.com/eu/en/p/psu/cp-9020302-eu/rme-series-rm650e-fully-modular-low-noise-atx-power-supply-eu-cp-9020302-eu",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "RMe 2025: 2 of the 6+2 connectors come from the 12V-2x6 -> 2x 6+2 breakout cable, which cannot be used together with the native 12V-2x6 cable"
+    ]
+  },
+  {
+    "id": "corsair-rm750e",
+    "category": "psu",
+    "brand": "Corsair",
+    "model": "RM750e 750W",
+    "spec": {
+      "wattage": 750,
+      "efficiency": "80+ Gold",
+      "modular": "full",
+      "atx_version": "ATX 3.1",
+      "pcie_8pin": 4,
+      "pcie_12vhpwr": 1,
+      "eps_8pin": 2,
+      "length_mm": 140,
+      "form_factor": "ATX"
+    },
+    "spec_source": "https://www.corsair.com/eu/en/p/psu/cp-9020295-eu/rme-series-rm750e-fully-modular-low-noise-atx-power-supply-eu-cp-9020295-eu",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "RMe 2025: 2 of the 6+2 connectors come from the 12V-2x6 -> 2x 6+2 breakout cable, which cannot be used together with the native 12V-2x6 cable"
+    ]
+  },
+  {
+    "id": "corsair-rm750e-white",
+    "category": "psu",
+    "brand": "Corsair",
+    "model": "RM750e 750W White",
+    "spec": {
+      "wattage": 750,
+      "efficiency": "80+ Gold",
+      "modular": "full",
+      "atx_version": "ATX 3.1",
+      "pcie_8pin": 4,
+      "pcie_12vhpwr": 1,
+      "eps_8pin": 2,
+      "length_mm": 140,
+      "form_factor": "ATX"
+    },
+    "spec_source": "https://www.corsair.com/us/en/p/psu/cp-9020292-na/rme-series-rm750e-fully-modular-low-noise-atx-power-supply-white-na-cp-9020292-na",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "RMe 2025: 2 of the 6+2 connectors come from the 12V-2x6 -> 2x 6+2 breakout cable, which cannot be used together with the native 12V-2x6 cable"
+    ]
+  },
+  {
+    "id": "bequiet-pure-power-12m-850",
+    "category": "psu",
+    "brand": "be quiet!",
+    "model": "Pure Power 12 M 850W",
+    "spec": {
+      "wattage": 850,
+      "efficiency": "80+ Gold",
+      "modular": "full",
+      "atx_version": "ATX 3.1",
+      "pcie_8pin": 4,
+      "pcie_12vhpwr": 1,
+      "eps_8pin": 2,
+      "length_mm": 160,
+      "form_factor": "ATX"
+    },
+    "spec_source": "https://www.x-kom.pl/p/1114803-zasilacz-do-komputera-be-quiet-pure-power-12-m-850w-80-plus-gold.html",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "x-kom lists the product as withdrawn (2026-08-22)"
+    ]
+  },
+  {
+    "id": "seasonic-vertex-gx-1000",
+    "category": "psu",
+    "brand": "Seasonic",
+    "model": "VERTEX GX-1000 1000W",
+    "spec": {
+      "wattage": 1000,
+      "efficiency": "80+ Gold",
+      "modular": "full",
+      "atx_version": "ATX 3.0",
+      "pcie_8pin": 3,
+      "pcie_12vhpwr": 1,
+      "eps_8pin": 2,
+      "length_mm": 160,
+      "form_factor": "ATX"
+    },
+    "spec_source": "https://www.x-kom.pl/p/1122884-zasilacz-do-komputera-seasonic-vertex-gx-1000w-pcie50-80-plus-gold.html",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "x-kom lists the product as withdrawn (2026-08-22)"
+    ]
+  },
+  {
+    "id": "seasonic-vertex-px-1200",
+    "category": "psu",
+    "brand": "Seasonic",
+    "model": "VERTEX PX-1200 1200W",
+    "spec": {
+      "wattage": 1200,
+      "efficiency": "80+ Platinum",
+      "modular": "full",
+      "atx_version": "ATX 3.1",
+      "pcie_8pin": 3,
+      "pcie_12vhpwr": 1,
+      "eps_8pin": 2,
+      "length_mm": 160,
+      "form_factor": "ATX"
+    },
+    "spec_source": "https://www.x-kom.pl/p/1297681-zasilacz-do-komputera-seasonic-vertex-px-1200w-80-plus-platinum.html",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "x-kom lists the product as withdrawn (2026-08-22)"
+    ]
+  },
+  {
+    "id": "montech-air-100-argb",
+    "category": "case",
+    "brand": "Montech",
+    "model": "AIR 100 ARGB",
+    "spec": {
+      "form_factors": [
+        "mATX",
+        "ITX"
+      ],
+      "max_gpu_length_mm": 330,
+      "max_cooler_height_mm": 161,
+      "max_psu_length_mm": 160,
+      "radiator_support_mm": [
+        120,
+        140,
+        240,
+        280
+      ],
+      "colour": "black",
+      "rgb": true,
+      "included_fans": 4,
+      "radiator_positions": {
+        "front": [
+          120,
+          140,
+          240,
+          280
+        ],
+        "top": [
+          120,
+          140,
+          240
+        ],
+        "rear": [
+          120
+        ]
+      },
+      "fan_mounts": {
+        "front": {
+          "count": 3,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "top": {
+          "count": 2,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "rear": {
+          "count": 1,
+          "sizes_mm": [
+            120
+          ]
+        },
+        "bottom": {
+          "count": 2,
+          "sizes_mm": [
+            120
+          ]
+        }
+      },
+      "max_fans": 8,
+      "included_fan_size_mm": 120,
+      "drive_bays_25": 4,
+      "drive_bays_35": 2,
+      "front_usb_c": false,
+      "argb_connector": "own_controller",
+      "psu_form_factors": [
+        "ATX"
+      ],
+      "max_gpu_slots": 4,
+      "side_panel": "tempered glass (swivel)"
+    },
+    "spec_source": "https://www.montechpc.com/air-100-argb",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "Included ARGB fans use 3-pin DC fan connectors and the bundled controller",
+      "max_gpu_slots derived from the 4 expansion slots"
+    ]
+  },
+  {
+    "id": "montech-air-100-argb-white",
+    "category": "case",
+    "brand": "Montech",
+    "model": "AIR 100 ARGB White",
+    "spec": {
+      "form_factors": [
+        "mATX",
+        "ITX"
+      ],
+      "max_gpu_length_mm": 330,
+      "max_cooler_height_mm": 161,
+      "max_psu_length_mm": 160,
+      "radiator_support_mm": [
+        120,
+        140,
+        240,
+        280
+      ],
+      "colour": "white",
+      "rgb": true,
+      "included_fans": 4,
+      "radiator_positions": {
+        "front": [
+          120,
+          140,
+          240,
+          280
+        ],
+        "top": [
+          120,
+          140,
+          240
+        ],
+        "rear": [
+          120
+        ]
+      },
+      "fan_mounts": {
+        "front": {
+          "count": 3,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "top": {
+          "count": 2,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "rear": {
+          "count": 1,
+          "sizes_mm": [
+            120
+          ]
+        },
+        "bottom": {
+          "count": 2,
+          "sizes_mm": [
+            120
+          ]
+        }
+      },
+      "max_fans": 8,
+      "included_fan_size_mm": 120,
+      "drive_bays_25": 4,
+      "drive_bays_35": 2,
+      "front_usb_c": false,
+      "argb_connector": "own_controller",
+      "psu_form_factors": [
+        "ATX"
+      ],
+      "max_gpu_slots": 4,
+      "side_panel": "tempered glass (swivel)"
+    },
+    "spec_source": "https://www.montechpc.com/air-100-argb",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "Included ARGB fans use 3-pin DC fan connectors and the bundled controller",
+      "max_gpu_slots derived from the 4 expansion slots"
+    ]
+  },
+  {
+    "id": "fractal-pop-air-black",
+    "category": "case",
+    "brand": "Fractal Design",
+    "model": "Pop Air",
+    "spec": {
+      "form_factors": [
+        "ATX",
+        "mATX",
+        "ITX"
+      ],
+      "max_gpu_length_mm": 405,
+      "max_cooler_height_mm": 170,
+      "max_psu_length_mm": 170,
+      "radiator_support_mm": [
+        120,
+        240,
+        280
+      ],
+      "colour": "black",
+      "rgb": false,
+      "included_fans": 3,
+      "radiator_positions": {
+        "front": [
+          280
+        ],
+        "top": [
+          240
+        ],
+        "rear": [
+          120
+        ]
+      },
+      "fan_mounts": {
+        "front": {
+          "count": 2,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "top": {
+          "count": 2,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "rear": {
+          "count": 1,
+          "sizes_mm": [
+            120
+          ]
+        }
+      },
+      "max_fans": 5,
+      "included_fan_size_mm": 120,
+      "drive_bays_25": 4,
+      "drive_bays_35": 3,
+      "argb_connector": "none",
+      "psu_form_factors": [
+        "ATX"
+      ],
+      "max_gpu_slots": 7,
+      "side_panel": "tempered glass"
+    },
+    "spec_source": "https://www.fractal-design.com/products/cases/pop/pop-air/black-tg-clear-tint/",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "GPU 405 mm is stated with the front fan mounted",
+      "A top 240 mm radiator limits RAM height to 46 mm",
+      "Front radiator up to 280 mm only - no 360 mm mount",
+      "max_gpu_slots derived from the 7 expansion slots"
+    ]
+  },
+  {
+    "id": "lianli-lancool-216-black",
+    "category": "case",
+    "brand": "Lian Li",
+    "model": "LANCOOL 216 RGB (216RX)",
+    "spec": {
+      "form_factors": [
+        "ATX",
+        "mATX",
+        "ITX",
+        "E-ATX"
+      ],
+      "max_gpu_length_mm": 392,
+      "max_cooler_height_mm": 180,
+      "max_psu_length_mm": 220,
+      "radiator_support_mm": [
+        240,
+        280,
+        360
+      ],
+      "colour": "black",
+      "rgb": true,
+      "included_fans": 3,
+      "radiator_positions": {
+        "front": [
+          240,
+          280,
+          360
+        ],
+        "top": [
+          240,
+          280,
+          360
+        ],
+        "bottom": [
+          240
+        ]
+      },
+      "fan_mounts": {
+        "front": {
+          "count": 3,
+          "sizes_mm": [
+            120,
+            140,
+            160
+          ]
+        },
+        "top": {
+          "count": 3,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "rear": {
+          "count": 1,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "bottom": {
+          "count": 2,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        }
+      },
+      "included_fan_size_mm": 160,
+      "drive_bays_25": 6,
+      "drive_bays_35": 2,
+      "front_usb_c": true,
+      "argb_connector": "5v_3pin",
+      "psu_form_factors": [
+        "ATX"
+      ],
+      "max_gpu_slots": 7,
+      "side_panel": "tempered glass"
+    },
+    "spec_source": "https://lian-li.com/product/lancool-216/",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "GPU 392 mm is stated for air-cooling mode; clearance with a front radiator is not published",
+      "Included fans: 2x160 mm ARGB front + 1x140 mm PWM rear; ARGB controller (LAN-1X) not included in 216RX",
+      "E-ATX boards only under 280 mm wide",
+      "max_gpu_slots derived from the 7 expansion slots"
+    ]
+  },
+  {
+    "id": "lianli-lancool-216-white",
+    "category": "case",
+    "brand": "Lian Li",
+    "model": "LANCOOL 216 RGB White (216RW)",
+    "spec": {
+      "form_factors": [
+        "ATX",
+        "mATX",
+        "ITX",
+        "E-ATX"
+      ],
+      "max_gpu_length_mm": 392,
+      "max_cooler_height_mm": 180,
+      "max_psu_length_mm": 220,
+      "radiator_support_mm": [
+        240,
+        280,
+        360
+      ],
+      "colour": "white",
+      "rgb": true,
+      "included_fans": 3,
+      "radiator_positions": {
+        "front": [
+          240,
+          280,
+          360
+        ],
+        "top": [
+          240,
+          280,
+          360
+        ],
+        "bottom": [
+          240
+        ]
+      },
+      "fan_mounts": {
+        "front": {
+          "count": 3,
+          "sizes_mm": [
+            120,
+            140,
+            160
+          ]
+        },
+        "top": {
+          "count": 3,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "rear": {
+          "count": 1,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "bottom": {
+          "count": 2,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        }
+      },
+      "included_fan_size_mm": 160,
+      "drive_bays_25": 6,
+      "drive_bays_35": 2,
+      "front_usb_c": true,
+      "argb_connector": "5v_3pin",
+      "psu_form_factors": [
+        "ATX"
+      ],
+      "max_gpu_slots": 7,
+      "side_panel": "tempered glass"
+    },
+    "spec_source": "https://lian-li.com/product/lancool-216/",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "GPU 392 mm is stated for air-cooling mode; clearance with a front radiator is not published",
+      "Included fans: 2x160 mm ARGB front + 1x140 mm PWM rear; ARGB controller (LAN-1X) not included in 216RX",
+      "E-ATX boards only under 280 mm wide",
+      "max_gpu_slots derived from the 7 expansion slots"
+    ]
+  },
+  {
+    "id": "bequiet-pure-base-500dx",
+    "category": "case",
+    "brand": "be quiet!",
+    "model": "Pure Base 500DX",
+    "spec": {
+      "form_factors": [
+        "ATX",
+        "mATX",
+        "ITX"
+      ],
+      "max_gpu_length_mm": 369,
+      "max_cooler_height_mm": 190,
+      "max_psu_length_mm": 258,
+      "radiator_support_mm": [
+        120,
+        140,
+        240,
+        280,
+        360
+      ],
+      "colour": "black",
+      "rgb": true,
+      "included_fans": 3,
+      "radiator_positions": {
+        "front": [
+          120,
+          140,
+          240,
+          280,
+          360
+        ],
+        "top": [
+          120,
+          240
+        ],
+        "rear": [
+          120,
+          140
+        ]
+      },
+      "fan_mounts": {
+        "front": {
+          "count": 3,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "top": {
+          "count": 2,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "rear": {
+          "count": 1,
+          "sizes_mm": [
+            140
+          ]
+        }
+      },
+      "max_fans": 6,
+      "included_fan_size_mm": 140,
+      "drive_bays_25": 5,
+      "drive_bays_35": 2,
+      "front_usb_c": true,
+      "argb_connector": "5v_3pin",
+      "psu_form_factors": [
+        "ATX"
+      ],
+      "max_gpu_slots": 7,
+      "side_panel": "tempered glass"
+    },
+    "spec_source": "https://www.bequiet.com/en/case/1854",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "max_gpu_slots derived from the 7 expansion slots"
+    ]
+  },
+  {
+    "id": "bequiet-silent-base-802",
+    "category": "case",
+    "brand": "be quiet!",
+    "model": "Silent Base 802",
+    "spec": {
+      "form_factors": [
+        "ATX",
+        "mATX",
+        "ITX",
+        "E-ATX"
+      ],
+      "max_gpu_length_mm": 432,
+      "max_cooler_height_mm": 185,
+      "max_psu_length_mm": 288,
+      "radiator_support_mm": [
+        120,
+        140,
+        240,
+        280,
+        360,
+        420
+      ],
+      "colour": "black",
+      "rgb": false,
+      "included_fans": 3,
+      "radiator_positions": {
+        "front": [
+          120,
+          140,
+          240,
+          280,
+          360,
+          420
+        ],
+        "top": [
+          120,
+          240,
+          360
+        ],
+        "rear": [
+          120,
+          140
+        ]
+      },
+      "fan_mounts": {
+        "front": {
+          "count": 3,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "top": {
+          "count": 3,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "rear": {
+          "count": 1,
+          "sizes_mm": [
+            140
+          ]
+        },
+        "bottom": {
+          "count": 1,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        }
+      },
+      "max_fans": 8,
+      "included_fan_size_mm": 140,
+      "drive_bays_25": 7,
+      "drive_bays_35": 3,
+      "front_usb_c": true,
+      "argb_connector": "none",
+      "psu_form_factors": [
+        "ATX"
+      ],
+      "max_gpu_slots": 7,
+      "side_panel": "steel"
+    },
+    "spec_source": "https://www.bequiet.com/en/case/2049",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "GPU 432 mm only with the HDD cage removed (287 mm with the cage installed)",
+      "E-ATX up to 30.5 x 27.5 cm",
+      "max_gpu_slots derived from the 7 expansion slots"
+    ]
+  },
+  {
+    "id": "fractal-north-white",
+    "category": "case",
+    "brand": "Fractal Design",
+    "model": "North",
+    "spec": {
+      "form_factors": [
+        "ATX",
+        "mATX",
+        "ITX"
+      ],
+      "max_gpu_length_mm": 355,
+      "max_cooler_height_mm": 170,
+      "max_psu_length_mm": 255,
+      "radiator_support_mm": [
+        120,
+        240,
+        360
+      ],
+      "colour": "white",
+      "rgb": false,
+      "included_fans": 2,
+      "radiator_positions": {
+        "front": [
+          360
+        ],
+        "top": [
+          240
+        ],
+        "rear": [
+          120
+        ]
+      },
+      "fan_mounts": {
+        "front": {
+          "count": 3,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "top": {
+          "count": 2,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "rear": {
+          "count": 1,
+          "sizes_mm": [
+            120
+          ]
+        }
+      },
+      "max_fans": 6,
+      "included_fan_size_mm": 140,
+      "drive_bays_25": 2,
+      "drive_bays_35": 2,
+      "front_usb_c": true,
+      "argb_connector": "none",
+      "psu_form_factors": [
+        "ATX"
+      ],
+      "max_gpu_slots": 7,
+      "side_panel": "tempered glass"
+    },
+    "spec_source": "https://www.fractal-design.com/products/cases/north/north/chalk-white-tg-clear/",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "PSU 255 mm with one HDD tray installed; 155 mm with both trays",
+      "max_gpu_slots derived from the 7 expansion slots"
+    ]
+  },
+  {
+    "id": "lianli-o11-dynamic-evo-white",
+    "category": "case",
+    "brand": "Lian Li",
+    "model": "O11 Dynamic EVO White",
+    "spec": {
+      "form_factors": [
+        "ATX",
+        "mATX",
+        "ITX",
+        "E-ATX"
+      ],
+      "max_gpu_length_mm": 426,
+      "max_cooler_height_mm": 167,
+      "max_psu_length_mm": 220,
+      "radiator_support_mm": [
+        280,
+        360
+      ],
+      "colour": "white",
+      "rgb": false,
+      "included_fans": 0,
+      "radiator_positions": {
+        "top": [
+          280,
+          360
+        ],
+        "side": [
+          280,
+          360
+        ],
+        "bottom": [
+          360
+        ]
+      },
+      "fan_mounts": {
+        "top": {
+          "count": 3,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "side": {
+          "count": 3,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "bottom": {
+          "count": 3,
+          "sizes_mm": [
+            120,
+            140
+          ]
+        },
+        "rear": {
+          "count": 1,
+          "sizes_mm": [
+            120
+          ]
+        }
+      },
+      "max_fans": 10,
+      "drive_bays_25": 9,
+      "drive_bays_35": 6,
+      "front_usb_c": true,
+      "argb_connector": "own_controller",
+      "psu_form_factors": [
+        "ATX"
+      ],
+      "max_gpu_slots": 8,
+      "side_panel": "tempered glass"
+    },
+    "spec_source": "https://lian-li.com/product/o11-dynamic-evo/",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "No front radiator mount - radiators go top, side or bottom",
+      "E-ATX boards only under 280 mm wide",
+      "max_gpu_slots derived from the 8 expansion slots"
+    ]
+  },
+  {
+    "id": "thermalright-assassin-x-120-refined-se",
+    "category": "cooler",
+    "brand": "Thermalright",
+    "model": "Assassin X 120 Refined SE",
+    "spec": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700"
+      ],
+      "tdp_rating_w": 180,
+      "height_mm": 148,
+      "radiator_mm": 0,
+      "ram_clearance_mm": 50,
+      "colour": "black",
+      "rgb": false,
+      "fans": 1,
+      "fan_thickness_mm": 25,
+      "argb_connector": "none"
+    },
+    "spec_source": "https://www.x-kom.pl/p/1284903-chlodzenie-procesora-thermalright-assassin-x-120-refined-se-120mm.html",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "Thermalright publishes no TDP rating; tdp_rating_w is AmigoZT's working figure",
+      "ram_clearance_mm not published - unverified"
+    ]
+  },
+  {
+    "id": "thermalright-peerless-assassin-120-se",
+    "category": "cooler",
+    "brand": "Thermalright",
+    "model": "Peerless Assassin 120 SE",
+    "spec": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700"
+      ],
+      "tdp_rating_w": 245,
+      "height_mm": 155,
+      "radiator_mm": 0,
+      "ram_clearance_mm": 45,
+      "colour": "black",
+      "rgb": false,
+      "fans": 2,
+      "fan_thickness_mm": 25,
+      "argb_connector": "none"
+    },
+    "spec_source": "https://www.x-kom.pl/p/1284954-chlodzenie-procesora-thermalright-peerless-assassin-120-se-120mm.html",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "Thermalright publishes no TDP rating; tdp_rating_w is AmigoZT's working figure",
+      "ram_clearance_mm not published - unverified"
+    ]
+  },
+  {
+    "id": "thermalright-peerless-assassin-120-white",
+    "category": "cooler",
+    "brand": "Thermalright",
+    "model": "Peerless Assassin 120 White",
+    "spec": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700"
+      ],
+      "tdp_rating_w": 245,
+      "height_mm": 157,
+      "radiator_mm": 0,
+      "ram_clearance_mm": 45,
+      "colour": "white",
+      "rgb": false,
+      "fans": 2,
+      "fan_thickness_mm": 25,
+      "argb_connector": "none"
+    },
+    "spec_source": "https://www.x-kom.pl/p/1284953-chlodzenie-procesora-thermalright-peerless-assassin-120-white-120mm.html",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "Thermalright publishes no TDP rating; tdp_rating_w is AmigoZT's working figure",
+      "ram_clearance_mm not published - unverified"
+    ]
+  },
+  {
+    "id": "bequiet-dark-rock-pro-5",
+    "category": "cooler",
+    "brand": "be quiet!",
+    "model": "Dark Rock Pro 5",
+    "spec": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1851"
+      ],
+      "tdp_rating_w": 270,
+      "height_mm": 168,
+      "radiator_mm": 0,
+      "ram_clearance_mm": 0,
+      "colour": "black",
+      "rgb": false,
+      "fans": 2,
+      "fan_thickness_mm": 25,
+      "argb_connector": "none"
+    },
+    "spec_source": "https://www.bequiet.com/en/cpucooler/4466",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "Front 120 mm fan is height-adjustable; be quiet! publishes no fixed RAM height limit"
+    ]
+  },
+  {
+    "id": "arctic-liquid-freezer-iii-240",
+    "category": "cooler",
+    "brand": "Arctic",
+    "model": "Liquid Freezer III 240",
+    "spec": {
+      "cooler_type": "aio",
+      "sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1851"
+      ],
+      "tdp_rating_w": 280,
+      "height_mm": 0,
+      "radiator_mm": 240,
+      "ram_clearance_mm": 0,
+      "colour": "black",
+      "rgb": false,
+      "radiator_thickness_mm": 38,
+      "fan_thickness_mm": 25,
+      "fans": 2,
+      "argb_connector": "none"
+    },
+    "spec_source": "https://www.arctic.de/media/a1/82/1e/1708429821/Spec_Sheet_Liquid_Freezer_III_240_Black_DE.pdf",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "ARCTIC publishes no TDP rating; tdp_rating_w is AmigoZT's working figure",
+      "Radiator 277 x 120 x 38 mm; 65.5 mm with fans"
+    ]
+  },
+  {
+    "id": "arctic-liquid-freezer-iii-360",
+    "category": "cooler",
+    "brand": "Arctic",
+    "model": "Liquid Freezer III 360",
+    "spec": {
+      "cooler_type": "aio",
+      "sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1851"
+      ],
+      "tdp_rating_w": 350,
+      "height_mm": 0,
+      "radiator_mm": 360,
+      "ram_clearance_mm": 0,
+      "colour": "black",
+      "rgb": false,
+      "radiator_thickness_mm": 38,
+      "fan_thickness_mm": 25,
+      "fans": 3,
+      "argb_connector": "none"
+    },
+    "spec_source": "https://www.arctic.de/media/16/63/19/1708429821/Spec_Sheet_Liquid_Freezer_III_360_Black_EN.pdf",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "ARCTIC publishes no TDP rating; tdp_rating_w is AmigoZT's working figure",
+      "SKU ACFRE00136A; radiator 398 x 120 x 38 mm; 65.5 mm with fans"
+    ]
+  },
+  {
+    "id": "arctic-liquid-freezer-iii-360-white",
+    "category": "cooler",
+    "brand": "Arctic",
+    "model": "Liquid Freezer III 360 A-RGB White",
+    "spec": {
+      "cooler_type": "aio",
+      "sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1851"
+      ],
+      "tdp_rating_w": 350,
+      "height_mm": 0,
+      "radiator_mm": 360,
+      "ram_clearance_mm": 0,
+      "colour": "white",
+      "rgb": true,
+      "radiator_thickness_mm": 38,
+      "fan_thickness_mm": 25,
+      "fans": 3,
+      "argb_connector": "5v_3pin"
+    },
+    "spec_source": "https://www.arctic.de/us/Liquid-Freezer-III-360-A-RGB-White/ACFRE00152A",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": false,
+    "spec_notes": [
+      "SKU ACFRE00152A. Dimensions taken from the LF III 360 (black) spec sheet; the A-RGB sheet was not parsed",
+      "ARCTIC publishes no TDP rating; tdp_rating_w is AmigoZT's working figure"
+    ]
+  },
+  {
+    "id": "deepcool-ak400",
+    "category": "cooler",
+    "brand": "DeepCool",
+    "model": "AK400",
+    "spec": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700"
+      ],
+      "tdp_rating_w": 220,
+      "height_mm": 155,
+      "radiator_mm": 0,
+      "ram_clearance_mm": 46,
+      "colour": "black",
+      "rgb": false,
+      "fans": 1,
+      "fan_thickness_mm": 25,
+      "argb_connector": "none"
+    },
+    "spec_source": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AK400-Performance-CPU-Cooler-1700-AM5/2021/15222.shtml",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "ram_clearance_mm not published - unverified"
+    ]
+  },
+  {
+    "id": "arctic-p12-pwm-pst",
+    "category": "fans",
+    "brand": "Arctic",
+    "model": "P12 PWM PST (3-pack)",
+    "spec": {
+      "size_mm": 120,
+      "count": 3,
+      "thickness_mm": 25,
+      "connector": "4pin_pwm",
+      "rgb": false,
+      "colour": "black"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "arctic-p12-argb",
+    "category": "fans",
+    "brand": "Arctic",
+    "model": "P12 PWM PST A-RGB (3-pack)",
+    "spec": {
+      "size_mm": 120,
+      "count": 3,
+      "thickness_mm": 25,
+      "connector": "4pin_pwm",
+      "rgb": true,
+      "colour": "black",
+      "argb_connector": "5v_3pin"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "bequiet-pure-wings-3-120",
+    "category": "fans",
+    "brand": "be quiet!",
+    "model": "Pure Wings 3 120mm (3-pack)",
+    "spec": {
+      "size_mm": 120,
+      "count": 3,
+      "thickness_mm": 25,
+      "connector": "4pin_pwm",
+      "rgb": false,
+      "colour": "black"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "noctua-nf-p12-redux",
+    "category": "fans",
+    "brand": "Noctua",
+    "model": "NF-P12 redux-1700 PWM",
+    "spec": {
+      "size_mm": 120,
+      "count": 1,
+      "thickness_mm": 25,
+      "connector": "4pin_pwm",
+      "rgb": false,
+      "colour": "other"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "corsair-af120-rgb-elite",
+    "category": "fans",
+    "brand": "Corsair",
+    "model": "AF120 RGB ELITE (3-pack)",
+    "spec": {
+      "size_mm": 120,
+      "count": 3,
+      "thickness_mm": 25,
+      "connector": "4pin_pwm",
+      "rgb": true,
+      "colour": "black",
+      "argb_connector": "5v_3pin"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "lianli-uni-sl120-argb",
+    "category": "fans",
+    "brand": "Lian Li",
+    "model": "UNI FAN SL120 ARGB (3-pack)",
+    "spec": {
+      "size_mm": 120,
+      "count": 3,
+      "thickness_mm": 25,
+      "connector": "4pin_pwm",
+      "rgb": true,
+      "colour": "black",
+      "argb_connector": "5v_3pin"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "lianli-uni-sl120-argb-white",
+    "category": "fans",
+    "brand": "Lian Li",
+    "model": "UNI FAN SL120 ARGB White (3-pack)",
+    "spec": {
+      "size_mm": 120,
+      "count": 3,
+      "thickness_mm": 25,
+      "connector": "4pin_pwm",
+      "rgb": true,
+      "colour": "white",
+      "argb_connector": "5v_3pin"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "thermalright-tl-c12c",
+    "category": "fans",
+    "brand": "Thermalright",
+    "model": "TL-C12C X3 (3-pack)",
+    "spec": {
+      "size_mm": 120,
+      "count": 3,
+      "thickness_mm": 25,
+      "connector": "4pin_pwm",
+      "rgb": false,
+      "colour": "black"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "phanteks-d30-140-argb",
+    "category": "fans",
+    "brand": "Phanteks",
+    "model": "D30-140 D-RGB (3-pack)",
+    "spec": {
+      "size_mm": 140,
+      "count": 3,
+      "thickness_mm": 30,
+      "connector": "4pin_pwm",
+      "rgb": true,
+      "colour": "black",
+      "argb_connector": "5v_3pin"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "arctic-p14-pwm-pst",
+    "category": "fans",
+    "brand": "Arctic",
+    "model": "P14 PWM PST (2-pack)",
+    "spec": {
+      "size_mm": 140,
+      "count": 2,
+      "thickness_mm": 25,
+      "connector": "4pin_pwm",
+      "rgb": false,
+      "colour": "black"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "bequiet-pure-power-12m-750",
+    "category": "psu",
+    "brand": "be quiet!",
+    "model": "Pure Power 12 M 750W",
+    "spec": {
+      "wattage": 750,
+      "efficiency": "80+ Gold",
+      "modular": "full",
+      "atx_version": "ATX 3.0",
+      "pcie_8pin": 4,
+      "pcie_12vhpwr": 1,
+      "eps_8pin": 1,
+      "length_mm": 160,
+      "form_factor": "ATX"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "corsair-rm850e",
+    "category": "psu",
+    "brand": "Corsair",
+    "model": "RM850e 850W",
+    "spec": {
+      "wattage": 850,
+      "efficiency": "80+ Gold",
+      "modular": "full",
+      "atx_version": "ATX 3.0",
+      "pcie_8pin": 4,
+      "pcie_12vhpwr": 1,
+      "eps_8pin": 2,
+      "length_mm": 140,
+      "form_factor": "ATX"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "seasonic-focus-gx-750",
+    "category": "psu",
+    "brand": "Seasonic",
+    "model": "FOCUS GX-750 750W",
+    "spec": {
+      "wattage": 750,
+      "efficiency": "80+ Gold",
+      "modular": "full",
+      "atx_version": "ATX 3.0",
+      "pcie_8pin": 4,
+      "pcie_12vhpwr": 1,
+      "eps_8pin": 1,
+      "length_mm": 140,
+      "form_factor": "ATX"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "msi-mag-a650bn",
+    "category": "psu",
+    "brand": "MSI",
+    "model": "MAG A650BN 650W",
+    "spec": {
+      "wattage": 650,
+      "efficiency": "80+ Bronze",
+      "modular": "non-modular",
+      "atx_version": "ATX 2.x (no 12VHPWR)",
+      "pcie_8pin": 2,
+      "pcie_12vhpwr": 0,
+      "eps_8pin": 1,
+      "length_mm": 140,
+      "form_factor": "ATX"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "thermaltake-gf3-1000",
+    "category": "psu",
+    "brand": "Thermaltake",
+    "model": "Toughpower GF3 1000W",
+    "spec": {
+      "wattage": 1000,
+      "efficiency": "80+ Gold",
+      "modular": "full",
+      "atx_version": "ATX 3.0",
+      "pcie_8pin": 4,
+      "pcie_12vhpwr": 1,
+      "eps_8pin": 2,
+      "length_mm": 160,
+      "form_factor": "ATX"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "endorfy-supremo-fm5-850",
+    "category": "psu",
+    "brand": "Endorfy",
+    "model": "Supremo FM5 850W",
+    "spec": {
+      "wattage": 850,
+      "efficiency": "80+ Gold",
+      "modular": "full",
+      "atx_version": "ATX 3.0",
+      "pcie_8pin": 4,
+      "pcie_12vhpwr": 1,
+      "eps_8pin": 2,
+      "length_mm": 140,
+      "form_factor": "ATX"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "fractal-north-black",
+    "category": "case",
+    "brand": "Fractal Design",
+    "model": "North",
+    "spec": {
+      "form_factors": [
+        "ATX",
+        "mATX",
+        "ITX"
+      ],
+      "max_gpu_length_mm": 355,
+      "max_cooler_height_mm": 170,
+      "max_psu_length_mm": 175,
+      "radiator_support_mm": [
+        240,
+        280
+      ],
+      "colour": "black",
+      "rgb": false,
+      "included_fans": 2,
+      "included_fan_size_mm": 140,
+      "side_panel": "tempered glass",
+      "argb_connector": "none"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "nzxt-h5-flow",
+    "category": "case",
+    "brand": "NZXT",
+    "model": "H5 Flow",
+    "spec": {
+      "form_factors": [
+        "ATX",
+        "mATX",
+        "ITX"
+      ],
+      "max_gpu_length_mm": 365,
+      "max_cooler_height_mm": 165,
+      "max_psu_length_mm": 200,
+      "radiator_support_mm": [
+        240,
+        280
+      ],
+      "colour": "black",
+      "rgb": false,
+      "included_fans": 2,
+      "included_fan_size_mm": 120,
+      "side_panel": "tempered glass",
+      "argb_connector": "none"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "nzxt-h5-flow-white",
+    "category": "case",
+    "brand": "NZXT",
+    "model": "H5 Flow White",
+    "spec": {
+      "form_factors": [
+        "ATX",
+        "mATX",
+        "ITX"
+      ],
+      "max_gpu_length_mm": 365,
+      "max_cooler_height_mm": 165,
+      "max_psu_length_mm": 200,
+      "radiator_support_mm": [
+        240,
+        280
+      ],
+      "colour": "white",
+      "rgb": false,
+      "included_fans": 2,
+      "included_fan_size_mm": 120,
+      "side_panel": "tempered glass",
+      "argb_connector": "none"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "corsair-4000d-airflow",
+    "category": "case",
+    "brand": "Corsair",
+    "model": "4000D Airflow",
+    "spec": {
+      "form_factors": [
+        "ATX",
+        "mATX",
+        "ITX"
+      ],
+      "max_gpu_length_mm": 360,
+      "max_cooler_height_mm": 170,
+      "max_psu_length_mm": 180,
+      "radiator_support_mm": [
+        240,
+        280,
+        360
+      ],
+      "colour": "black",
+      "rgb": false,
+      "included_fans": 2,
+      "included_fan_size_mm": 120,
+      "side_panel": "tempered glass",
+      "argb_connector": "none"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "lianli-o11-dynamic-mini",
+    "category": "case",
+    "brand": "Lian Li",
+    "model": "O11 Dynamic Mini",
+    "spec": {
+      "form_factors": [
+        "ATX",
+        "mATX",
+        "ITX"
+      ],
+      "max_gpu_length_mm": 395,
+      "max_cooler_height_mm": 170,
+      "max_psu_length_mm": 180,
+      "radiator_support_mm": [
+        240,
+        280,
+        360
+      ],
+      "colour": "black",
+      "rgb": false,
+      "included_fans": 0,
+      "included_fan_size_mm": 120,
+      "side_panel": "tempered glass",
+      "argb_connector": "none"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "montech-king-95-argb",
+    "category": "case",
+    "brand": "Montech",
+    "model": "KING 95 ARGB",
+    "spec": {
+      "form_factors": [
+        "ATX",
+        "mATX",
+        "ITX"
+      ],
+      "max_gpu_length_mm": 400,
+      "max_cooler_height_mm": 173,
+      "max_psu_length_mm": 180,
+      "radiator_support_mm": [
+        240,
+        280,
+        360
+      ],
+      "colour": "black",
+      "rgb": true,
+      "included_fans": 5,
+      "included_fan_size_mm": 140,
+      "side_panel": "tempered glass",
+      "argb_connector": "5v_3pin"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "montech-king-95-argb-white",
+    "category": "case",
+    "brand": "Montech",
+    "model": "KING 95 ARGB White",
+    "spec": {
+      "form_factors": [
+        "ATX",
+        "mATX",
+        "ITX"
+      ],
+      "max_gpu_length_mm": 400,
+      "max_cooler_height_mm": 173,
+      "max_psu_length_mm": 180,
+      "radiator_support_mm": [
+        240,
+        280,
+        360
+      ],
+      "colour": "white",
+      "rgb": true,
+      "included_fans": 5,
+      "included_fan_size_mm": 140,
+      "side_panel": "tempered glass",
+      "argb_connector": "5v_3pin"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "noctua-nh-d15-g2",
+    "category": "cooler",
+    "brand": "Noctua",
+    "model": "NH-D15 G2",
+    "spec": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1851"
+      ],
+      "tdp_rating_w": 280,
+      "fans": 2,
+      "rgb": false,
+      "colour": "other",
+      "height_mm": 168,
+      "ram_clearance_mm": 45
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "deepcool-ak620",
+    "category": "cooler",
+    "brand": "DeepCool",
+    "model": "AK620",
+    "spec": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1851"
+      ],
+      "tdp_rating_w": 260,
+      "fans": 2,
+      "rgb": false,
+      "colour": "black",
+      "height_mm": 162,
+      "ram_clearance_mm": 43
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "bequiet-pure-loop-3-240",
+    "category": "cooler",
+    "brand": "be quiet!",
+    "model": "Pure Loop 3 240mm",
+    "spec": {
+      "cooler_type": "aio",
+      "sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1851"
+      ],
+      "tdp_rating_w": 250,
+      "fans": 2,
+      "rgb": true,
+      "colour": "black",
+      "radiator_mm": 240,
+      "argb_connector": "5v_3pin"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  }
+]

@@ -1,0 +1,904 @@
+[
+  {
+    "id": "msi-b550-gaming-plus",
+    "category": "motherboard",
+    "brand": "MSI",
+    "model": "B550 GAMING PLUS",
+    "spec": {
+      "socket": "AM4",
+      "chipset": "B550",
+      "form_factor": "ATX",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "max_memory_speed_mhz": 4400,
+      "m2_slots": 2,
+      "pcie_version": 4,
+      "wifi": false,
+      "bluetooth": false,
+      "m2_slot_sizes": [
+        "2280",
+        "2280"
+      ],
+      "m2_slot_gens": [
+        4,
+        3
+      ],
+      "sata_ports": 6,
+      "argb_5v_headers": 2,
+      "rgb_12v_headers": 1,
+      "fan_headers": 7,
+      "usb_c_header": true,
+      "bios_flashback": true,
+      "cpu_support": {
+        "ryzen_5000": "native",
+        "ryzen_5000x3d": "bios_update_required"
+      }
+    },
+    "spec_source": "https://www.x-kom.pl/p/572282-plyta-glowna-socket-am4-msi-mpg-b550-gaming-plus.html",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "cpu_support from the retailer's generation list; BIOS-update entries reflect CPUs launched after the board - confirm against the vendor CPU list before ordering"
+    ]
+  },
+  {
+    "id": "gigabyte-b550m-ds3h",
+    "category": "motherboard",
+    "brand": "Gigabyte",
+    "model": "B550M DS3H",
+    "spec": {
+      "socket": "AM4",
+      "chipset": "B550",
+      "form_factor": "mATX",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "max_memory_speed_mhz": 4400,
+      "m2_slots": 2,
+      "pcie_version": 4,
+      "wifi": false,
+      "bluetooth": false,
+      "m2_slot_gens": [
+        4,
+        3
+      ],
+      "sata_ports": 4,
+      "fan_headers": 3,
+      "cpu_support": {
+        "ryzen_5000": "native",
+        "ryzen_5000x3d": "bios_update_required"
+      }
+    },
+    "spec_source": "https://www.x-kom.pl/p/573225-plyta-glowna-socket-am4-gigabyte-b550m-ds3h.html",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "cpu_support from the retailer's generation list; BIOS-update entries reflect CPUs launched after the board - confirm against the vendor CPU list before ordering",
+      "ARGB/RGB headers and USB-C header not listed by the retailer"
+    ]
+  },
+  {
+    "id": "asus-tuf-b650-plus-wifi",
+    "category": "motherboard",
+    "brand": "ASUS",
+    "model": "TUF GAMING B650-PLUS WIFI",
+    "spec": {
+      "socket": "AM5",
+      "chipset": "B650",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "max_memory_speed_mhz": 6400,
+      "m2_slots": 3,
+      "pcie_version": 4,
+      "wifi": true,
+      "bluetooth": true,
+      "m2_slot_gens": [
+        5,
+        4,
+        4
+      ],
+      "sata_ports": 4,
+      "argb_5v_headers": 3,
+      "rgb_12v_headers": 1,
+      "fan_headers": 6,
+      "usb_c_header": true,
+      "bios_flashback": true,
+      "cpu_support": {
+        "ryzen_7000": "native",
+        "ryzen_7000x3d": "native",
+        "ryzen_9000": "bios_update_required",
+        "ryzen_9000x3d": "bios_update_required"
+      }
+    },
+    "spec_source": "https://www.x-kom.pl/p/1079838-plyta-glowna-socket-am5-asus-tuf-gaming-b650-plus-wifi.html",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "cpu_support from the retailer's generation list; BIOS-update entries reflect CPUs launched after the board - confirm against the vendor CPU list before ordering"
+    ]
+  },
+  {
+    "id": "msi-b650-gaming-plus-wifi",
+    "category": "motherboard",
+    "brand": "MSI",
+    "model": "B650 GAMING PLUS WIFI",
+    "spec": {
+      "socket": "AM5",
+      "chipset": "B650",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 192,
+      "max_memory_speed_mhz": 6400,
+      "m2_slots": 2,
+      "pcie_version": 4,
+      "wifi": true,
+      "bluetooth": true,
+      "m2_slot_gens": [
+        4,
+        4
+      ],
+      "sata_ports": 4,
+      "argb_5v_headers": 2,
+      "rgb_12v_headers": 2,
+      "fan_headers": 4,
+      "usb_c_header": true,
+      "bios_flashback": true,
+      "cpu_support": {
+        "ryzen_7000": "native",
+        "ryzen_7000x3d": "native",
+        "ryzen_9000": "bios_update_required",
+        "ryzen_9000x3d": "bios_update_required"
+      }
+    },
+    "spec_source": "https://www.x-kom.pl/p/1177115-plyta-glowna-socket-am5-msi-b650-gaming-plus-wifi.html",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "cpu_support from the retailer's generation list; BIOS-update entries reflect CPUs launched after the board - confirm against the vendor CPU list before ordering",
+      "x-kom lists as withdrawn; Ceneo showed no offers on 2026-08-22"
+    ]
+  },
+  {
+    "id": "gigabyte-b650m-ds3h",
+    "category": "motherboard",
+    "brand": "Gigabyte",
+    "model": "B650M DS3H",
+    "spec": {
+      "socket": "AM5",
+      "chipset": "B650",
+      "form_factor": "mATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "max_memory_speed_mhz": 6400,
+      "m2_slots": 2,
+      "pcie_version": 4,
+      "wifi": false,
+      "bluetooth": false,
+      "m2_slot_gens": [
+        4,
+        4
+      ],
+      "sata_ports": 4,
+      "argb_5v_headers": 1,
+      "rgb_12v_headers": 1,
+      "fan_headers": 4,
+      "usb_c_header": true,
+      "bios_flashback": true,
+      "cpu_support": {
+        "ryzen_7000": "native",
+        "ryzen_7000x3d": "native",
+        "ryzen_9000": "bios_update_required",
+        "ryzen_9000x3d": "bios_update_required"
+      }
+    },
+    "spec_source": "https://www.x-kom.pl/p/1070732-plyta-glowna-socket-am5-gigabyte-b650m-ds3h.html",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "cpu_support from the retailer's generation list; BIOS-update entries reflect CPUs launched after the board - confirm against the vendor CPU list before ordering"
+    ]
+  },
+  {
+    "id": "asus-rog-strix-x670e-a",
+    "category": "motherboard",
+    "brand": "ASUS",
+    "model": "ROG STRIX X670E-A GAMING WIFI",
+    "spec": {
+      "socket": "AM5",
+      "chipset": "X670E",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "max_memory_speed_mhz": 6600,
+      "m2_slots": 4,
+      "pcie_version": 5,
+      "wifi": true,
+      "bluetooth": true,
+      "m2_slot_gens": [
+        5,
+        5,
+        4,
+        4
+      ],
+      "sata_ports": 4,
+      "argb_5v_headers": 3,
+      "rgb_12v_headers": 1,
+      "fan_headers": 7,
+      "usb_c_header": true,
+      "bios_flashback": true,
+      "cpu_support": {
+        "ryzen_7000": "native",
+        "ryzen_7000x3d": "native",
+        "ryzen_9000": "bios_update_required",
+        "ryzen_9000x3d": "bios_update_required"
+      }
+    },
+    "spec_source": "https://www.x-kom.pl/p/1072686-plyta-glowna-socket-am5-asus-rog-strix-x670e-a-gaming-wifi.html",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "cpu_support from the retailer's generation list; BIOS-update entries reflect CPUs launched after the board - confirm against the vendor CPU list before ordering"
+    ]
+  },
+  {
+    "id": "msi-b760-gaming-plus-wifi",
+    "category": "motherboard",
+    "brand": "MSI",
+    "model": "B760 GAMING PLUS WIFI",
+    "spec": {
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 192,
+      "max_memory_speed_mhz": 6800,
+      "m2_slots": 3,
+      "pcie_version": 4,
+      "wifi": true,
+      "bluetooth": true,
+      "m2_slot_gens": [
+        4,
+        4
+      ],
+      "argb_5v_headers": 2,
+      "rgb_12v_headers": 1,
+      "fan_headers": 6,
+      "usb_c_header": true,
+      "cpu_support": {
+        "core_12th": "native",
+        "core_13th": "native",
+        "core_14th": "bios_update_required"
+      }
+    },
+    "spec_source": "https://www.x-kom.pl/p/1172515-plyta-glowna-socket-1700-msi-b760-gaming-plus-wifi.html",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "cpu_support from the retailer's generation list; BIOS-update entries reflect CPUs launched after the board - confirm against the vendor CPU list before ordering",
+      "SATA port count not listed by the retailer"
+    ]
+  },
+  {
+    "id": "gigabyte-b760m-ds3h-ddr4",
+    "category": "motherboard",
+    "brand": "Gigabyte",
+    "model": "B760M DS3H DDR4",
+    "spec": {
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "form_factor": "mATX",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "max_memory_speed_mhz": 3600,
+      "m2_slots": 2,
+      "pcie_version": 4,
+      "wifi": false,
+      "bluetooth": false,
+      "m2_slot_gens": [
+        4,
+        4
+      ],
+      "sata_ports": 4,
+      "argb_5v_headers": 1,
+      "rgb_12v_headers": 1,
+      "fan_headers": 4,
+      "usb_c_header": true,
+      "cpu_support": {
+        "core_12th": "native",
+        "core_13th": "native",
+        "core_14th": "bios_update_required"
+      }
+    },
+    "spec_source": "https://www.x-kom.pl/p/1104379-plyta-glowna-socket-1700-gigabyte-b760m-ds3h-ddr4.html",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "cpu_support from the retailer's generation list; BIOS-update entries reflect CPUs launched after the board - confirm against the vendor CPU list before ordering"
+    ]
+  },
+  {
+    "id": "asus-prime-b760-plus",
+    "category": "motherboard",
+    "brand": "ASUS",
+    "model": "PRIME B760-PLUS",
+    "spec": {
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 192,
+      "max_memory_speed_mhz": 6400,
+      "m2_slots": 3,
+      "pcie_version": 4,
+      "wifi": false,
+      "bluetooth": false,
+      "m2_slot_gens": [
+        4,
+        4,
+        4
+      ],
+      "sata_ports": 4,
+      "argb_5v_headers": 3,
+      "rgb_12v_headers": 1,
+      "fan_headers": 4,
+      "usb_c_header": true,
+      "cpu_support": {
+        "core_12th": "native",
+        "core_13th": "native",
+        "core_14th": "native"
+      }
+    },
+    "spec_source": "https://www.x-kom.pl/p/1234726-plyta-glowna-socket-1700-asus-prime-b760-plus.html",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "Third M.2 slot is PCIe 4.0 x2"
+    ]
+  },
+  {
+    "id": "msi-mag-z790-tomahawk-wifi",
+    "category": "motherboard",
+    "brand": "MSI",
+    "model": "MAG Z790 TOMAHAWK WIFI",
+    "spec": {
+      "socket": "LGA1700",
+      "chipset": "Z790",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "max_memory_speed_mhz": 7200,
+      "m2_slots": 4,
+      "pcie_version": 5,
+      "wifi": true,
+      "bluetooth": true,
+      "m2_slot_gens": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "sata_ports": 7,
+      "argb_5v_headers": 3,
+      "rgb_12v_headers": 1,
+      "fan_headers": 8,
+      "usb_c_header": true,
+      "bios_flashback": true,
+      "memory_profiles": [
+        "XMP"
+      ],
+      "cpu_support": {
+        "core_12th": "native",
+        "core_13th": "native",
+        "core_14th": "bios_update_required"
+      }
+    },
+    "spec_source": "https://www.x-kom.pl/p/1072760-plyta-glowna-socket-1700-msi-mag-z790-tomahawk-wifi.html",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "cpu_support from the retailer's generation list; BIOS-update entries reflect CPUs launched after the board - confirm against the vendor CPU list before ordering"
+    ]
+  },
+  {
+    "id": "kingston-fury-beast-16-ddr4-3600",
+    "category": "ram",
+    "brand": "Kingston",
+    "model": "FURY Beast 16GB (2x8) DDR4-3600 CL17",
+    "spec": {
+      "memory_type": "DDR4",
+      "total_capacity_gb": 16,
+      "modules": 2,
+      "speed_mhz": 3600,
+      "cas_latency": 17,
+      "height_mm": 35,
+      "rgb": false
+    }
+  },
+  {
+    "id": "kingston-fury-beast-32-ddr4-3600",
+    "category": "ram",
+    "brand": "Kingston",
+    "model": "FURY Beast 32GB (2x16) DDR4-3600 CL18",
+    "spec": {
+      "memory_type": "DDR4",
+      "total_capacity_gb": 32,
+      "modules": 2,
+      "speed_mhz": 3600,
+      "cas_latency": 18,
+      "height_mm": 35,
+      "rgb": false
+    }
+  },
+  {
+    "id": "kingston-fury-beast-16-ddr5-6000",
+    "category": "ram",
+    "brand": "Kingston",
+    "model": "FURY Beast 16GB (2x8) DDR5-6000 CL36",
+    "spec": {
+      "memory_type": "DDR5",
+      "total_capacity_gb": 16,
+      "modules": 2,
+      "speed_mhz": 6000,
+      "cas_latency": 36,
+      "height_mm": 35,
+      "rgb": false
+    }
+  },
+  {
+    "id": "kingston-fury-beast-32-ddr5-6000",
+    "category": "ram",
+    "brand": "Kingston",
+    "model": "FURY Beast 32GB (2x16) DDR5-6000 CL36",
+    "spec": {
+      "memory_type": "DDR5",
+      "total_capacity_gb": 32,
+      "modules": 2,
+      "speed_mhz": 6000,
+      "cas_latency": 36,
+      "height_mm": 35,
+      "rgb": false,
+      "profiles": [
+        "EXPO"
+      ]
+    },
+    "spec_source": "https://www.ceneo.pl/173182673",
+    "spec_checked_at": "2026-08-22",
+    "spec_verified": true,
+    "spec_notes": [
+      "EXPO kit KF560C36BBE2K2-32 per the Ceneo listing; height unverified"
+    ]
+  },
+  {
+    "id": "corsair-vengeance-rgb-32-ddr5-6000-white",
+    "category": "ram",
+    "brand": "Corsair",
+    "model": "VENGEANCE RGB 32GB (2x16) DDR5-6000 CL36 White",
+    "spec": {
+      "memory_type": "DDR5",
+      "total_capacity_gb": 32,
+      "modules": 2,
+      "speed_mhz": 6000,
+      "cas_latency": 36,
+      "height_mm": 44,
+      "rgb": true
+    }
+  },
+  {
+    "id": "corsair-vengeance-rgb-32-ddr5-6000",
+    "category": "ram",
+    "brand": "Corsair",
+    "model": "VENGEANCE RGB 32GB (2x16) DDR5-6000 CL36",
+    "spec": {
+      "memory_type": "DDR5",
+      "total_capacity_gb": 32,
+      "modules": 2,
+      "speed_mhz": 6000,
+      "cas_latency": 36,
+      "height_mm": 44,
+      "rgb": true
+    }
+  },
+  {
+    "id": "corsair-vengeance-64-ddr5-6000",
+    "category": "ram",
+    "brand": "Corsair",
+    "model": "VENGEANCE 64GB (2x32) DDR5-6000 CL30",
+    "spec": {
+      "memory_type": "DDR5",
+      "total_capacity_gb": 64,
+      "modules": 2,
+      "speed_mhz": 6000,
+      "cas_latency": 30,
+      "height_mm": 35,
+      "rgb": false
+    }
+  },
+  {
+    "id": "kingston-fury-renegade-128-ddr5-5600",
+    "category": "ram",
+    "brand": "Kingston",
+    "model": "FURY Renegade 128GB (4x32) DDR5-5600 CL40",
+    "spec": {
+      "memory_type": "DDR5",
+      "total_capacity_gb": 128,
+      "modules": 4,
+      "speed_mhz": 5600,
+      "cas_latency": 40,
+      "height_mm": 44,
+      "rgb": false
+    }
+  },
+  {
+    "id": "kingston-nv3-500",
+    "category": "ssd",
+    "brand": "Kingston",
+    "model": "NV3 500GB NVMe",
+    "spec": {
+      "capacity_gb": 500,
+      "interface": "M.2 NVMe",
+      "pcie_generation": 4,
+      "read_mb_s": 6000,
+      "write_mb_s": 4000,
+      "form_factor": "M.2 2280"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "kingston-nv3-1tb",
+    "category": "ssd",
+    "brand": "Kingston",
+    "model": "NV3 1TB NVMe",
+    "spec": {
+      "capacity_gb": 1000,
+      "interface": "M.2 NVMe",
+      "pcie_generation": 4,
+      "read_mb_s": 6000,
+      "write_mb_s": 4000,
+      "form_factor": "M.2 2280"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "samsung-990-evo-1tb",
+    "category": "ssd",
+    "brand": "Samsung",
+    "model": "990 EVO 1TB NVMe",
+    "spec": {
+      "capacity_gb": 1000,
+      "interface": "M.2 NVMe",
+      "pcie_generation": 4,
+      "read_mb_s": 5000,
+      "write_mb_s": 4200,
+      "form_factor": "M.2 2280"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "samsung-990-pro-2tb",
+    "category": "ssd",
+    "brand": "Samsung",
+    "model": "990 PRO 2TB NVMe",
+    "spec": {
+      "capacity_gb": 2000,
+      "interface": "M.2 NVMe",
+      "pcie_generation": 4,
+      "read_mb_s": 7450,
+      "write_mb_s": 6900,
+      "form_factor": "M.2 2280"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "wd-black-sn850x-2tb",
+    "category": "ssd",
+    "brand": "Western Digital",
+    "model": "WD_BLACK SN850X 2TB NVMe",
+    "spec": {
+      "capacity_gb": 2000,
+      "interface": "M.2 NVMe",
+      "pcie_generation": 4,
+      "read_mb_s": 7300,
+      "write_mb_s": 6600,
+      "form_factor": "M.2 2280"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "wd-black-sn850x-4tb",
+    "category": "ssd",
+    "brand": "Western Digital",
+    "model": "WD_BLACK SN850X 4TB NVMe",
+    "spec": {
+      "capacity_gb": 4000,
+      "interface": "M.2 NVMe",
+      "pcie_generation": 4,
+      "read_mb_s": 7300,
+      "write_mb_s": 6600,
+      "form_factor": "M.2 2280"
+    },
+    "spec_verified": false
+  },
+  {
+    "id": "samsung-990-pro-1tb",
+    "category": "ssd",
+    "brand": "Samsung",
+    "model": "990 PRO 1TB NVMe",
+    "spec": {
+      "capacity_gb": 1000,
+      "interface": "PCIe",
+      "pcie_generation": 4,
+      "read_mb_s": 7450,
+      "write_mb_s": 6900,
+      "form_factor": "2280",
+      "heatsink": false
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "wd-black-sn770-1tb",
+    "category": "ssd",
+    "brand": "Western Digital",
+    "model": "WD_BLACK SN770 1TB NVMe",
+    "spec": {
+      "capacity_gb": 1000,
+      "interface": "PCIe",
+      "pcie_generation": 4,
+      "read_mb_s": 5150,
+      "write_mb_s": 4900,
+      "form_factor": "2280",
+      "heatsink": false
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "crucial-p3-plus-2tb",
+    "category": "ssd",
+    "brand": "Crucial",
+    "model": "P3 Plus 2TB NVMe",
+    "spec": {
+      "capacity_gb": 2000,
+      "interface": "PCIe",
+      "pcie_generation": 4,
+      "read_mb_s": 5000,
+      "write_mb_s": 4200,
+      "form_factor": "2280",
+      "heatsink": false
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "kingston-kc3000-1tb",
+    "category": "ssd",
+    "brand": "Kingston",
+    "model": "KC3000 1TB NVMe",
+    "spec": {
+      "capacity_gb": 1000,
+      "interface": "PCIe",
+      "pcie_generation": 4,
+      "read_mb_s": 7000,
+      "write_mb_s": 6000,
+      "form_factor": "2280",
+      "heatsink": false
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "lexar-nm790-2tb",
+    "category": "ssd",
+    "brand": "Lexar",
+    "model": "NM790 2TB NVMe",
+    "spec": {
+      "capacity_gb": 2000,
+      "interface": "PCIe",
+      "pcie_generation": 4,
+      "read_mb_s": 7400,
+      "write_mb_s": 6500,
+      "form_factor": "2280",
+      "heatsink": false
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "crucial-t500-1tb",
+    "category": "ssd",
+    "brand": "Crucial",
+    "model": "T500 1TB NVMe",
+    "spec": {
+      "capacity_gb": 1000,
+      "interface": "PCIe",
+      "pcie_generation": 4,
+      "read_mb_s": 7300,
+      "write_mb_s": 6800,
+      "form_factor": "2280",
+      "heatsink": false
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "samsung-870-evo-1tb",
+    "category": "ssd",
+    "brand": "Samsung",
+    "model": "870 EVO 1TB SATA",
+    "spec": {
+      "capacity_gb": 1000,
+      "interface": "SATA",
+      "pcie_generation": 3,
+      "read_mb_s": 560,
+      "write_mb_s": 530,
+      "form_factor": "2.5\"",
+      "heatsink": false
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "kingston-fury-beast-32-ddr5-6400",
+    "category": "ram",
+    "brand": "Kingston",
+    "model": "FURY Beast 32GB (2x16) DDR5-6400 CL32",
+    "spec": {
+      "memory_type": "DDR5",
+      "total_capacity_gb": 32,
+      "modules": 2,
+      "speed_mhz": 6400,
+      "cas_latency": 32,
+      "height_mm": 35,
+      "rgb": false,
+      "profiles": [
+        "EXPO",
+        "XMP"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "gskill-trident-z5-rgb-32-ddr5-6000",
+    "category": "ram",
+    "brand": "G.Skill",
+    "model": "Trident Z5 RGB 32GB (2x16) DDR5-6000 CL30",
+    "spec": {
+      "memory_type": "DDR5",
+      "total_capacity_gb": 32,
+      "modules": 2,
+      "speed_mhz": 6000,
+      "cas_latency": 30,
+      "height_mm": 44,
+      "rgb": true,
+      "profiles": [
+        "EXPO",
+        "XMP"
+      ],
+      "argb_connector": "5v_3pin"
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "crucial-pro-32-ddr5-5600",
+    "category": "ram",
+    "brand": "Crucial",
+    "model": "Pro 32GB (2x16) DDR5-5600 CL46",
+    "spec": {
+      "memory_type": "DDR5",
+      "total_capacity_gb": 32,
+      "modules": 2,
+      "speed_mhz": 5600,
+      "cas_latency": 46,
+      "height_mm": 34,
+      "rgb": false,
+      "profiles": [
+        "EXPO",
+        "XMP"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "kingston-fury-renegade-32-ddr5-7200",
+    "category": "ram",
+    "brand": "Kingston",
+    "model": "FURY Renegade 32GB (2x16) DDR5-7200 CL38",
+    "spec": {
+      "memory_type": "DDR5",
+      "total_capacity_gb": 32,
+      "modules": 2,
+      "speed_mhz": 7200,
+      "cas_latency": 38,
+      "height_mm": 40,
+      "rgb": false,
+      "profiles": [
+        "EXPO",
+        "XMP"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  },
+  {
+    "id": "gskill-ripjaws-s5-32-ddr5-6000",
+    "category": "ram",
+    "brand": "G.Skill",
+    "model": "Ripjaws S5 32GB (2x16) DDR5-6000 CL30",
+    "spec": {
+      "memory_type": "DDR5",
+      "total_capacity_gb": 32,
+      "modules": 2,
+      "speed_mhz": 6000,
+      "cas_latency": 30,
+      "height_mm": 33,
+      "rgb": false,
+      "profiles": [
+        "EXPO",
+        "XMP"
+      ]
+    },
+    "spec_source": null,
+    "spec_checked_at": "2026-08-23",
+    "spec_verified": false,
+    "spec_notes": [
+      "reference data from product specifications, not yet verified against a shop page"
+    ]
+  }
+]
