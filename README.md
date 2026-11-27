@@ -1,6 +1,6 @@
 # AmigoZT PC — Telegram PC-build configurator
 
-<img src="app/assets/brand/amigozt_pc.png" alt="AmigoZT PC brand image" width="320">
+<img src="docs/showcase/cover_1_configurator_bot.png" alt="Telegram bot that configures a PC build and sends the order request" width="800">
 
 Telegram bot that configures a custom PC for the Polish market. The user answers plain questions
 (budget, games, resolution, looks) and the bot does the technical work: picks compatible parts,
@@ -8,6 +8,24 @@ balances price/performance and prices the build in **PLN**.
 
 **Status:** working prototype, run locally (long polling). Component prices in the catalogue are
 reference data, not live store prices. No deployment, no real orders yet.
+
+## A bot like this for your business
+
+<img src="docs/showcase/cover_2_bot_for_your_business.png" alt="Custom Telegram bots: answers with buttons, offer and price, ready request" width="800">
+
+I build Telegram bots that take orders, bookings or quote requests: your questions, your catalogue, your prices.
+
+| Package | What you get | Delivery | From |
+|---|---|---|---|
+| Request bot | up to 8 questions with buttons, request to Telegram and Google Sheets, 1 language | 5 days | $120 / 450 PLN |
+| Catalogue bot | + catalogue, price calculation, database, admin commands, 2 languages | 10 days | $320 / 1,200 PLN |
+| Configurator bot | + rules engine, result card image, saved orders, tests, up to 4 languages | 21 days | $750 / 2,800 PLN |
+
+Built with AI coding agents (Claude Code); every path is tested before you see it. This repository is my own
+demo project: no client reviews yet, and I can start with a small paid test.
+Contact: [LinkedIn](https://www.linkedin.com/in/roman-zakapko-1997633b0).
+
+<img src="docs/showcase/cover_3_real_screens.png" alt="Real bot output from the first question to the order request" width="800">
 
 ## What it does
 
